@@ -58,14 +58,18 @@ function renderizar(datos, abrirTodo = false) {
         if (abrirTodo) dTema.setAttribute('open', '');
         dTema.className = 'tema';
         dTema.innerHTML = `<summary>${tema.nombre}</summary>`;
+        
         tema.versiculos.forEach(v => {
-            dTema.innerHTML += `
-                <details>
-                    <summary>${v.ref}</summary>
-                    <div class="versiculo-texto">${v.texto}</div>
-                </details>
-            `;
-        });
+    // Si v.rojo es true, se activa la clase 'letra-roja'
+    const claseRojo = v.rojo ? 'letra-roja' : '';
+    
+    dTema.innerHTML += `
+        <details>
+            <summary>${v.ref}</summary>
+            <div class="versiculo-texto ${claseRojo}">${v.texto}</div>
+        </details>
+    `;
+});
         areaContenido.appendChild(dTema);
     });
 }

@@ -76,6 +76,10 @@ body {
     margin-left: 25px; /* Alinear versiculos al margen izquierdo */
 }
 
+.letra-roja {
+    color: red; /* Resaltar palabras de Jesús en rojo */
+}
+
 /* Buscador centrado y limpio */
 .search-container { position: relative; margin-bottom: 20px; }
 .search-wrapper { display: flex; align-items: center; border: 1px solid #ccc; border-radius: 25px; padding: 5px 15px; background: white; }
