@@ -1,4 +1,9 @@
-/* Estilos generales limpios */
+/* Reinicio total: Quitar todos los bordes posibles */
+* {
+    border: none !important;
+    outline: none !important;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
@@ -13,48 +18,72 @@ body {
     margin: 0 auto;
     background: white;
     padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 h1 { text-align: center; color: #2c3e50; }
 
-/* Buscador */
 .search-box { margin-bottom: 20px; }
+
 input {
     width: 100%;
     padding: 12px;
     font-size: 16px;
-    border: 1px solid #ddd;
+    background: #f4f4f4;
     border-radius: 4px;
-    box-sizing: border-box;
 }
 
-/* Estructura desplegable (acordeón) */
 details {
     margin-bottom: 10px;
-    border: 1px solid #eee;
-    border-radius: 4px;
     padding: 5px 10px;
-    transition: background 0.2s ease;
 }
 
 summary {
     cursor: pointer;
     font-weight: bold;
     padding: 10px 0;
-    outline: none;
 }
 
-details[open] { background-color: #f0f7ff; }
+.tema { margin-left: 0; }
 
-/* Niveles jerárquicos */
-.tema { margin-left: 20px; }
 .versiculo-texto {
-    margin-left: 40px;
+    margin-left: 20px;
     padding: 10px;
     font-style: italic;
-    background: #fff;
-    border-left: 3px solid #3498db;
+    background: #fdfdfd;
     font-size: 0.95em;
 }
+
+/* Responsivo: Ajusta el ancho según el dispositivo */
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+.container {
+    max-width: 600px; /* Tamaño ideal para móvil y PC */
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Buscador centrado y limpio */
+.search-container { position: relative; margin-bottom: 20px; }
+.search-wrapper { display: flex; align-items: center; border: 1px solid #ccc; border-radius: 25px; padding: 5px 15px; background: white; }
+
+input { border: none; flex: 1; padding: 10px; outline: none; }
+
+#clearBtn { background: none; border: none; cursor: pointer; font-size: 20px; color: #888; }
+.hidden { display: none; }
+
+/* Estilo para las sugerencias */
+#sugerencias {
+    position: absolute; width: 100%; background: white; list-style: none;
+    padding: 0; margin: 5px 0 0 0; border: 1px solid #ddd; border-radius: 5px;
+    z-index: 100; box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+#sugerencias li { padding: 10px; cursor: pointer; border-bottom: 1px solid #eee; }
+#sugerencias li:hover { background: #f0f0f0; }
+
+details { margin-bottom: 10px; padding: 10px; border-bottom: 1px solid #eee; }

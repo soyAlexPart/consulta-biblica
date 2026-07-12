@@ -8,16 +8,22 @@
 </head>
 <body>
 
-    <div class="container" style="text-align: center;">
-        <h2>Temas Bíblicos de la Iglesia de Cristo en la Moncada, Gto.</h2>
-        <h3>Consulta de Temas Bíblicos</h3>
-
-        <div class="search-box">
-            <input type="text" id="searchInput" placeholder="Buscar tema o versículo (ej. Mateo 5:42 o Fe)...">
+    <div class="container">
+        <div class="container" align="center">
+            <h2>Temas Bíblicos de la Iglesia de Cristo en la Moncada, Gto.</h2>
+            <h3>Consulta de Temas Bíblicos</h3>
         </div>
 
-        <div id="contentArea">
-            </div>
+    <!-- Buscador -->
+    <div class="search-container">
+        <div class="search-wrapper">
+            <input type="text" id="searchInput" placeholder="Buscar tema o versículo...">
+            <button id="clearBtn" class="hidden">×</button>
+        </div>
+        <ul id="sugerencias"></ul>
+    </div>
+    <div id="contentArea"></div>
+        <div id="contentArea"></div>
     </div>
 
     <script src="data.js"></script>

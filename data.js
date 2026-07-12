@@ -1,27 +1,21 @@
-// Aquí puedes agregar cientos o miles de temas.
-// Estructura: Categoría -> Temas -> Versículos
+// data.js
 const bibliotecaBiblica = [
     {
-        categoria: "Fe",
-        temas: [
-            {
-                nombre: "Confianza en Dios",
-                versiculos: [
-                    { ref: "Proverbios 3:5", texto: "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia." },
-                    { ref: "Salmos 56:3", texto: "En el día que temo, yo en ti confío." }
-                ]
-            }
+        nombre: "¿Por que no prestar?",
+        versiculos: [
+            { ref: "Salmos 37:21", texto: "El impío toma prestado, y no paga; Mas el justo tiene misericordia, y da." },
+            { ref: "Romanos 13:8", texto: "No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley." },
+            { ref: "Proverbios 19:14", texto: "La casa y las riquezas son herencia de los padres; Mas de Jehová la mujer prudente." }
         ]
     },
+
     {
-        categoria: "Finanzas",
-        temas: [
-            {
-                nombre: "No prestar a usura",
-                versiculos: [
-                    { ref: "Mateo 5:42", texto: "Al que te pida, dale; y al que quiera tomar de ti prestado, no se lo rehúses." }
-                ]
-            }
+        nombre: "¿Por que no pedir prestado?",
+        versiculos: [
+            { ref: "Salmos 37:21", texto: "El impío toma prestado, y no paga; Mas el justo tiene misericordia, y da." },
+            { ref: "Romanos 13:8", texto: "No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley." },
+            { ref: "Proverbios 19:14", texto: "La casa y las riquezas son herencia de los padres; Mas de Jehová la mujer prudente." }
         ]
     }
+
 ];
