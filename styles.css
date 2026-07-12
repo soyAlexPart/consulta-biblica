@@ -68,6 +68,14 @@ body {
     border-radius: 8px;
 }
 
+.versiculo-texto {
+    white-space: pre-line; /* Mantener saltos de línea en versiculos multiples*/
+}
+
+.tema > details {
+    margin-left: 25px; /* Alinear versiculos al margen izquierdo */
+}
+
 /* Buscador centrado y limpio */
 .search-container { position: relative; margin-bottom: 20px; }
 .search-wrapper { display: flex; align-items: center; border: 1px solid #ccc; border-radius: 25px; padding: 5px 15px; background: white; }
