@@ -166,7 +166,38 @@ const bibliotecaBiblica = [
     ]
 },
 
+{
+    nombre: "",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+    ]
+},
+
 // Aqui empiezan los temas recientes
+
+{
+    nombre: "¿Por que Dios destruyó el mundo?",
+    versiculos: [
+        {
+            ref: "Genesis 6:1-7",
+            texto: `<span class="titulo-seccion">La maldad de los hombres</span>
+                        1. Aconteció que cuando comenzaron los hombres a multiplicarse sobre la faz de la tierra, y les nacieron hijas,\n
+                        2. que viendo los hijos de Dios que las hijas de los hombres eran hermosas, tomaron para sí mujeres, escogiendo entre todas.\n
+                        3. Y dijo Jehová: No contenderá mi espíritu con el hombre para siempre, porque ciertamente él es carne; mas serán sus días ciento veinte años.\n
+                        4. Había gigantes en la tierra en aquellos días, y también después que se llegaron los hijos de Dios a las hijas de los hombres, y les engendraron hijos. Estos fueron los valientes que desde la antigüedad fueron varones de renombre.\n
+                        5. Y vio Jehová que la maldad de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal.\n
+                        6. Y se arrepintió Jehová de haber hecho hombre en la tierra, y le dolió en su corazón.\n
+                        7. Y dijo Jehová: Raeré de sobre la faz de la tierra a los hombres que he creado, desde el hombre hasta la bestia, y hasta el reptil y las aves del cielo; pues me arrepiento de haberlos hecho.`
+        },
+    ]
+},
 
 {
     nombre: "Cartas perdidas",
