@@ -182,6 +182,34 @@ const bibliotecaBiblica = [
 
 // Aqui empiezan los temas recientes
 
+
+
+
+{
+    nombre: "Hecho hijo de Dios",
+    versiculos: [
+        {
+            ref: "Juan 1:12",
+            texto: `12. Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;`
+        },
+        {
+            ref: "Mateo 12:46-50",
+            texto: `<span class="titulo-seccion">La madre y los hermanos de Jesús</span>
+                        46. Mientras él aún hablaba a la gente, he aquí su madre y sus hermanos estaban afuera, y le querían hablar.\n
+                        47. Y le dijo uno: He aquí tu madre y tus hermanos están afuera, y te quieren hablar.\n
+                        48. Respondiendo él al que le decía esto, dijo: 
+                            <span class="letra-roja">¿Quién es mi madre, y quiénes son mis hermanos?</span>\n
+                        49. Y extendiendo su mano hacia sus discípulos, dijo: 
+                            <span class="letra-roja">He aquí mi madre y mis hermanos.</span>\n
+                        50. Porque todo aquel que hace la voluntad de mi Padre que está en los cielos, ése es mi hermano, y hermana, y madre.</span>`
+        },
+        {
+            ref: "Marcos 6:3",
+            texto: `3. ¿No es éste el carpintero, hijo de María, hermano de Jacobo, de José, de Judas y de Simón? ¿No están también aquí con nosotros sus hermanas? Y se escandalizaban de él.`
+        },
+    ]
+},
+
 {
     nombre: "¿Por que Dios destruyó el mundo?",
     versiculos: [
