@@ -53,6 +53,97 @@ const bibliotecaBiblica = [
     },
 
     {
+    nombre: "La sana doctrina",
+    versiculos: [
+        {
+            ref: "2 Timoteo 4:1-4",
+            texto: `<span class="titulo-seccion">Predica la palabra</span>
+                    1. Te encarezco delante de Dios y del Señor Jesucristo, que juzgará a los vivos y a los muertos en su manifestación y en su reino,\n
+                    2. que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina.\n
+                    3. Porque vendrá tiempo cuando no sufrirán la sana doctrina, sino que teniendo comezón de oír, se amontonarán maestros conforme a sus propias concupiscencias,\n
+                    4. y apartarán de la verdad el oído y se volverán a las fábulas.`
+        },
+    ]
+    },
+
+    {
+    nombre: "El gran mandamiento",
+    versiculos: [
+        {
+            ref: "Mateo 22:34-40",
+            texto: `<span class="titulo-seccion">El gran mandamiento</span>
+                        34. Entonces los fariseos, oyendo que había hecho callar a los saduceos, se juntaron a una.\n
+                        35. Y uno de ellos, intérprete de la ley, preguntó por tentarle, diciendo:\n
+                        36. Maestro, ¿cuál es el gran mandamiento en la ley?\n
+                        37. Jesús le dijo: <span class="letra-roja">Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente.\n
+                        38. Este es el primero y grande mandamiento.\n
+                        39. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo.\n
+                        40. De estos dos mandamientos depende toda la ley y los profetas.\n
+                    </span>`
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "Deuteronomio 6:4-5",
+            texto: `4. Oye, Israel: Jehová nuestro Dios, Jehová uno es.\n
+                    5. Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas.`
+        },
+    ]
+    },
+
+    {
+    nombre: "La justicia de Dios (Dios es justo)",
+    versiculos: [
+        {
+            ref: "Salmos 11",
+            texto: `<span class="titulo-seccion">El refugio del justo</span>
+                        1. En Jehová he confiado; 
+                        ¿Cómo decís a mi alma, 
+                        Que escape al monte cual ave?\n
+                        2. Porque he aquí, los malos tienden el arco, 
+                        Disponen sus saetas sobre la cuerda, 
+                        Para asaetear en oculto a los rectos de corazón.\n
+                        3. Si fueren destruidos los fundamentos, 
+                        ¿Qué ha de hacer el justo?\n
+                        4. Jehová está en su santo templo; 
+                        Jehová tiene en el cielo su trono; 
+                        Sus ojos ven, sus párpados examinan a los hijos de los hombres.\n
+                        5. Jehová prueba al justo; 
+                        Pero al malo y al que ama la violencia, su alma los aborrece.\n
+                        6. Sobre los malos hará llover calamidades; 
+                        Fuego, azufre y viento abrasador será la porción del cáliz de ellos.\n
+                        7. Porque Jehová es justo, y ama la justicia; 
+                        El hombre recto mirará su rostro.`
+        },
+        {
+            ref: "Salmos 45:7",
+            texto: `7. Has amado la justicia y aborrecido la maldad;
+                    Por tanto, te ungió Dios, el Dios tuyo,
+                    Con óleo de alegría más que a tus compañeros.`
+        },
+        {
+            ref: "Hechos 1:9",
+            texto: ``
+        },
+    ]
+    },
+    
+    {
+    nombre: "Amarte a ti mismo",
+    versiculos: [
+        {
+            ref: "Marcos 12:31",
+            texto: `<span class="letra-roja">31. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos.</span>`
+        },
+        {
+            ref: "1 Juan 4:8",
+            texto: `8. El que no ama, no ha conocido a Dios; porque Dios es amor.` }
+    ]
+    },
+
+    {
     nombre: "",
     versiculos: []
     },
