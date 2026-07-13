@@ -35,7 +35,7 @@ const bibliotecaBiblica = [
                     22. Entonces los discípulos se miraban unos a otros, dudando de quién hablaba.\n
                     23. Y uno de sus discípulos, al cual Jesús amaba, estaba recostado al lado de Jesús.\n
                     24. A éste, pues, hizo señas Simón Pedro, para que preguntase quién era aquel de quien hablaba.\n
-                    25. El entonces, recostado cerca del pecho de Jesús, le dijo: Señor, ¿quién es?\n
+                    25. El entonces, recostado cerca del pecho de Jesús, le dijo: Señor, ¿quién es?
                     26. Respondió Jesús: <span class="letra-roja">A quien yo diere el pan mojado, aquél es.</span>\n Y mojando el pan, lo dio a Judas Iscariote hijo de Simón.`
         },
         { 
@@ -88,4 +88,82 @@ const bibliotecaBiblica = [
         }
     ]
 },
+
+{
+    nombre: "A los suyos vino",
+    versiculos: [
+        { 
+            ref: "Mateo 10",
+            texto: `   <span class="titulo-seccion">Elección de los doce apóstoles</span>
+                    1. Entonces llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera, y para sanar toda enfermedad y toda dolencia.\n
+                    2. Los nombres de los doce apóstoles son estos: primero Simón, llamado Pedro, y Andrés su hermano; Jacobo hijo de Zebedeo, y Juan su hermano;\n
+                    3. Felipe, Bartolomé, Tomás, Mateo el publicano, Jacobo hijo de Alfeo, Lebeo, por sobrenombre Tadeo,\n
+                    4. Simón el cananista, y Judas Iscariote, el que también le entregó.\n
+                        <span class="titulo-seccion">Misión de los doce</span>
+                    5. A estos doce envió Jesús, y les dio instrucciones, diciendo: 
+                        <span class="letra-roja">Por camino de gentiles no vayáis, y en ciudad de samaritanos no entréis,\n
+                    6. sino id antes a las ovejas perdidas de la house de Israel.\n
+                    7. Y yendo, predicad, diciendo: El reino de los cielos se ha acercado.\n
+                    8. Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia.\n
+                    9. No os proveáis de oro, ni plata, ni cobre en vuestros cintos;\n
+                    10. ni de alforja para el camino, ni de dos túnicas, ni de calzado, ni de bordón; porque el obrero es digno de su alimento.\n
+                    11. Mas en cualquier ciudad o aldea donde entréis, informaos quién en ella sea digno, y posad allí hasta que salgáis.\n
+                    12. Y al entrar en la casa, saludadla.\n
+                    13. Y si la casa fuere digna, vuestra paz vendrá sobre ella; mas si no fuere digna, vuestra paz se volverá a vosotros.\n
+                    14. Y si alguno no os recibiere, ni oyere vuestras palabras, salid de aquella casa o ciudad, y sacudid el polvo de vuestros pies.\n
+                    15. De cierto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma y de Gomorra, que para aquella ciudad.</span>\n
+                        <span class="titulo-seccion">Persecuciones venideras</span>
+                        <span class="letra-roja">16. He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes, y sencillos como palomas.\n
+                    17. Y guardaos de los hombres, porque os entregarán a los concilios, y en sus sinagogas os azotarán;\n
+                    18. y aun ante gobernadores y reyes seréis llevados por causa de mí, para testimonio a ellos y a los gentiles.\n
+                    19. Mas cuando os entreguen, no os preocupéis por cómo o qué hablaréis; porque en aquella hora os será dado lo que habéis de hablar.\n
+                    20. Porque no sois vosotros los que habláis, sino el Espíritu de vuestro Padre que habla en vosotros.\n
+                    21. El hermano entregará a la muerte al hermano, y el padre al hijo; y los hijos se levantarán contra los padres, y los harán morir.\n
+                    22. Y seréis aborrecidos de todos por causa de mi nombre; mas el que persevere hasta el fin, éste será salvo.\n
+                    23. Cuando os persigan en esta ciudad, huid a la otra; porque de cierto os digo, que no acabaréis de recorrer todas las ciudades de Israel, antes que venga el Hijo de Hombre.\n
+                    24. El discípulo no es más que su maestro, ni el siervo más que su señor.\n
+                    25. Bástale al discípulo ser como su maestro, y al siervo como su señor. Si al padre de familia llamaron Beelzeb, ¿cuánto más a los de su casa?\n
+                        <span class="titulo-seccion">A quién se debe temer</span>
+                        <span class="letra-roja">26. Así que, no los temáis; porque nada hay encubierto, que no haya de ser manifestado; ni oculto, que no haya de saberse.\n
+                    27. Lo que os digo en tinieblas, decidlo en la luz; y lo que oís al oído, proclamadlo desde las azoteas.\n
+                    28. Y no temáis a los que matan el cuerpo, mas el alma no pueden matar; temed más bien a aquel que puede destruir el alma y el cuerpo en el infierno.\n
+                    29. ¿No se venden dos pajarillos por un cuarto? Con todo, ni uno de ellos cae a tierra sin vuestro Padre.\n
+                    30. Pues aun vuestros cabellos están todos contados.\n
+                    31. Así que, no temáis; más valéis vosotros que muchos pajarillos.\n
+                    32. A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos.</span>\n
+                    33. Y a cualquiera que me niegue delante de los hombres, yo también le negaré delante de mi Padre que está en los cielos.</span>\n
+                        <span class="titulo-seccion">Jesús causa de división</span>
+                        <span class="letra-roja">34. No penséis que he venido para traer paz a la tierra; no he venido para traer paz, sino espada.\n
+                    35. Porque he venido para poner en disensión al hombre contra su padre, a la hija contra su madre, y a la nuera contra su suegra;\n
+                    36. y los enemigos del hombre serán los de su casa.\n
+                    37. El que ama a padre o madre más que a mí, no es digno de mí; el que ama a hijo o hija más que a mí, no es digno de mí;\n
+                    38. y el que no toma su cruz y sigue en pos de mí, no es digno de mí.\n
+                    39. El que halla su vida, la perderá; y el que pierde su vida por causa de mí, la hallará.</span>\n
+                        <span class="titulo-seccion">Recompensas</span>
+                        <span class="letra-roja">40. El que a vosotros recibe, a mí me recibe; y el que me recibe a mí, recibe al que me envió.\n
+                    41. El que recibe a un profeta por cuanto es profeta, recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo, recompensa de justo recibirá.\n
+                    42. Y cualquiera que dé a uno de estos pequeñitos un vaso de agua fría solamente, por cuanto es discípulo, de cierto os digo que no perderá su recompensa.</span>`
+        },
+        { 
+            ref: "Juan 1:11",
+            texto: `11. A lo suyo vino, y los suyos no le recibieron.\n`
+        },
+        {
+            ref: "Mateo 13:53-58",
+            texto: `<span class="titulo-seccion">Jesús en Nazaret</span>
+                    53. Aconteció que cuando terminó Jesús estas parábolas, se fue de allí.\n
+                    54. Y venido a su tierra, les enseñaba en la sinagoga de ellos, de tal manera que se maravillaban, y decían: ¿De dónde tiene éste esta sabiduría y estos milagros?\n
+                    55. ¿No es éste el hijo del carpintero? ¿No se llama su madre María, y sus hermanos, Jacobo, José, Simón y Judas?\n
+                    56. ¿No están todas sus hermanas con nosotros? ¿De dónde, pues, tiene éste todas estas cosas?\n
+                    57. Y se escandalizaban de él. Pero Jesús les dijo: 
+                        <span class="letra-roja">No hay profeta sin honra, sino en su propia tierra y en su casa.</span>\n
+                    58. Y no hizo allí muchos milagros, a causa de la incredulidad de ellos.\n`
+        },
+        {
+            ref: "Mateo 2:6",
+            texto: `6. Y tú, Belén, de la tierra de Judá, No eres la más pequeña entre los príncipes de Judá; Porque de ti saldrá un guiador, Que apacentará a mi pueblo Israel.\n`
+        },
+    ]
+},
+
 ];
