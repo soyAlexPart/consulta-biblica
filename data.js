@@ -144,6 +144,108 @@ const bibliotecaBiblica = [
     },
 
     {
+    nombre: "Lo tengo por basura",
+    versiculos: [
+        {
+            ref: "Filipenses 3:7-8",
+            texto: `7. Pero cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo.\n
+                    8. Y ciertamente, aun estimo todas las cosas como pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y lo tengo por basura, para ganar a Cristo,`
+        },
+    ]
+    },
+
+    {
+    nombre: "Descansar",
+    versiculos: [
+        {
+            ref: "Exodo 4:6-8",
+            texto: `6. Le dijo además Jehová: Mete ahora tu mano en tu seno. Y él metió la mano en su seno; y cuando la sacó, he aquí que su mano estaba leprosa como la nieve.\n
+                    7. Y dijo: Vuelve a meter tu mano en tu seno. Y él volvió a meter su mano en su seno; y al sacarla de nuevo del seno, he aquí que se había vuelto como la otra carne.\n
+                    8. Si aconteciere que no te creyeren ni obedecieren a la voz de la primera señal, creerán a la voz de la postrera.`
+        },
+        {
+            ref: "Marcos 2:27",
+            texto: `27. También les dijo: <span class="letra-roja">El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo.</span>`
+        },
+        {
+            ref: "Genesis 2:1-3",
+            texto: `1. Fueron, pues, acabados los cielos y la tierra, y todo el ejército de ellos.\n
+                    2. Y acabó Dios en el día séptimo la obra que hizo; y reposó el día séptimo de toda la obra que hizo.\n
+                    3. Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación.`
+        },
+        {
+            ref: "Eclesiastes 4:6",
+            texto: `6. Más vale un puño lleno con descanso, que ambos puños llenos con trabajo y aflicción de espíritu.`
+        },
+    ]
+    },
+
+    {
+    nombre: "Hablar conforme a la palabra",
+    versiculos: [
+        {
+            ref: "1 Pedro 4:11",
+            texto: `11. Si alguno habla, hable conforme a las palabras de Dios; si alguno ministra, ministre conforme al poder que Dios da, para que en todo sea Dios glorificado por Jesucristo, a quien pertenecen la gloria y el imperio por los siglos de los siglos. Amén.`
+        },
+    ]
+    },
+
+    {
+    nombre: "Ejercicio corporal",
+    versiculos: [
+        {
+            ref: "1 Timoteo 4:6-8",
+            texto: `<span class="titulo-seccion">Un buen ministro de Jesucristo</span>
+                        6. Si esto enseñas a los hermanos, serás buen ministro de Jesucristo, nutrido con las palabras de la fe y de la buena doctrina que has seguido.\n
+                        7. Desecha las fábulas profanas y de viejas. Ejercítate para la piedad;\n
+                        8. porque el ejercicio corporal para poco es provechoso, pero la piedad para todo aprovecha, pues tiene promesa de esta vida presente, y de la venidera.`
+        },
+    ]
+    },
+
+    {
+    nombre: "",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    nombre: "",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    nombre: "",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+    ]
+    },
+
+    {
     nombre: "",
     versiculos: []
     },
