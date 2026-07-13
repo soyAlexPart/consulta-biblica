@@ -1,20 +1,4 @@
 const bibliotecaBiblica = [
-
-    /*
-    {
-    nombre: "",
-    versiculos: [
-        {
-            ref: "",
-            texto: ``
-        },
-        {
-            ref: "",
-            texto: ``
-        },
-    ]
-    },
-    */
     
     {
     nombre: "¿Por que hay que congregarnos?",
@@ -124,8 +108,10 @@ const bibliotecaBiblica = [
                     Con óleo de alegría más que a tus compañeros.`
         },
         {
-            ref: "Hechos 1:9",
-            texto: ``
+            ref: "Hebreos 1:9",
+            texto: `9. Has amado la justicia, y aborrecido la maldad,
+                    Por lo cual te ungió Dios, el Dios tuyo,
+                    Con óleo de alegría más que a tus compañeros.`
         },
     ]
     },
@@ -135,7 +121,7 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Marcos 12:31",
-            texto: `<span class="letra-roja">31. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos.</span>`
+            texto: `<span class="letra-roja"> 31. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos.</span>`
         },
         {
             ref: "1 Juan 4:8",
@@ -204,15 +190,111 @@ const bibliotecaBiblica = [
     },
 
     {
-    nombre: "",
+    nombre: "Permanecer en la palabra",
     versiculos: [
         {
-            ref: "",
-            texto: ``
+            ref: "Juan 8:31-32",
+            texto: `<span class="titulo-seccion">La verdad os hará libres</span>
+                        31. Dijo entonces Jesús a los judíos que habían creído en él: <span class="letra-roja"> Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos;\n
+                        32. y conoceréis la verdad, y la verdad os hará libres.</span>`
         },
         {
-            ref: "",
-            texto: ``
+            ref: "Juan 17:17",
+            texto: `<span class="letra-roja"> 17. Santifícalos en tu verdad; tu palabra es verdad.</span>`
+        },
+        {
+            ref: "1 Corintios 15:2",
+            texto: `2. por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.`
+        },
+    ]
+    },
+
+    {
+    nombre: "Ponerle el sentido",
+    versiculos: [
+        {
+            ref: "Proverbios 26:4-5",
+            texto: `4. Nunca respondas al necio de acuerdo con su necedad,
+                    Para que no seas tú también como él.\n
+                    5. Responde al necio como merece su necedad,
+                    Para que no se estime sabio en su propia opinión.`
+        },
+        {
+            ref: "Hechos 3:1-2",
+            texto: `<span class="titulo-seccion">Curación de un cojo</span>
+                    1. Pedro y Juan subían juntos al templo a la hora novena, la de la oración.\n
+                    2. Y era traído un hombre cojo de nacimiento, a quien ponían cada día a la puerta del templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el templo.`
+        },
+        {
+            ref: "Nehemías 8:8",
+            texto: `8. Y leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura.`
+        },
+        {
+            ref: "Genesis 37:27-28",
+            texto: `27. Venid, y vendámosle a los ismaelitas, y no sea nuestra mano sobre él; porque él es nuestro hermano, nuestra propia carne. Y sus hermanos convinieron con él.\n
+                    28. Y cuando pasaban los madianitas mercaderes, sacaron ellos a José de la cisterna, y le trajeron arriba, y le vendieron a los ismaelitas por veinte piezas de plata. Y llevaron a José a Egipto.`
+        },
+    ]
+    },
+
+    {
+    nombre: "Visita con Jesús (Tendrás tiempo)",
+    versiculos: [
+        {
+            ref: "Lucas 10:38-42",
+            texto: `<span class="titulo-seccion">Jesús visita a Marta y a María</span>
+                    38. Aconteció que yendo de camino, entró en una aldea; y una mujer llamada Marta le recibió en su casa.\n
+                    39. Esta tenía una hermana que se llamaba María, la cual, sentándose a los pies de Jesús, oía su palabra.\n
+                    40. Pero Marta se preocupaba con muchos quehaceres, y acercándose, dijo: Señor, ¿no te da cuidado que mi hermana me deje servir sola? Dile, pues, que me ayude.\n
+                    41. Respondiendo Jesús, le dijo: <span class="letra-roja"> Marta, Marta, afanada y turbada estás con muchas cosas.\n
+                    42. Pero sólo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada.</span>`
+        },
+    ]
+    },
+
+    {
+    nombre: "Dios castiga",
+    versiculos: [
+        {
+            ref: "Lucas 12:35-48",
+            texto: `<span class="titulo-seccion">El siervo vigilante</span>
+                    <span class="letra-roja">
+                        35. Estén ceñidos vuestros lomos, y vuestras lámparas encendidas;\n
+                        36. y vosotros sed semejantes a hombres que aguardan a que su señor regrese de las bodas, para que cuando llegue y llame, le abran en seguida.\n
+                        37. Bienaventurados aquellos siervos a los cuales su señor, cuando venga, halle velando; de cierto os digo que se ceñirá, y hará que se sienten a la mesa, y vendrá a servirles.\n
+                        38. Y aunque venga a la segunda vigilia, y aunque venga a la tercera vigilia, si los hallare así, bienaventurados son aquellos siervos.\n
+                        39. Pero sabed esto, que si supiese el padre de familia a qué hora el ladrón había de venir, velaría ciertamente, y no dejaría minar su casa.\n
+                        40. Vosotros, pues, también, estad preparados, porque a la hora que no penséis, el Hijo del Hombre vendrá.
+                    </span>
+                    <span class="titulo-seccion">El siervo infiel</span>
+                        41. Entonces Pedro le dijo: Señor, ¿dices esta parábola a nosotros, o también a todos?\n
+                        42. Y dijo el Señor: <span class="letra-roja"> ¿Quién es el mayordomo fiel y prudente al cual su señor pondrá sobre su casa, para que a tiempo les dé su ración?\n
+                        43. Bienaventurado aquel siervo al cual, cuando su señor venga, le halle haciendo así.\n
+                        44. En verdad os digo que le pondrá sobre todos sus bienes.\n
+                        45. Mas si aquel siervo dijere en su corazón: Mi señor tarda en venir; y comenzare a golpear a los criados y a las criadas, y a comer y beber y embriagarse,\n
+                        46. vendrá el señor de aquel siervo en día que éste no espera, y a la hora que no sabe, y le castigará duramente, y le pondrá con los infieles.\n
+                        47. Aquel siervo que conociendo la voluntad de su señor, no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes.\n
+                        48. Mas el que sin conocerla hizo cosas dignas de azotes, será azotado poco; porque a todo aquel a quien se haya dado mucho, mucho se le demandará; y al que mucho se le haya confiado, más se le pedirá.</span>`
+        },
+        {
+            ref: "Proverbios 3:12",
+            texto: `12. Porque Jehová al que ama castiga,
+                    Como el padre al hijo a quien quiere.`
+        },
+    ]
+    },
+
+    {
+    nombre: "Arrepientanse o pereceran",
+    versiculos: [
+        {
+            ref: "Lucas 13:1-5",
+            texto: `<span class="titulo-seccion">Arrepentíos o pereceréis</span>
+                        1. En este mismo tiempo estaban allí algunos que le contaban acerca de los galileos cuya sangre Pilato había mezclado con los sacrificios de ellos.\n
+                        2. Respondiendo Jesús, les dijo: <span class="letra-roja"> ¿Pensáis que estos galileos, porque padecieron tales cosas, eran más pecadores que todos los galileos?\n
+                        3. Os digo: No; antes si no os arrepentís, todos pereceréis igualmente.\n
+                        4. O aquellos dieciocho sobre los cuales cayó la torre en Siloé, y los mató, ¿pensáis que eran más culpables que todos los hombres que habitan en Jerusalén?\n
+                        5. Os digo: No; antes si no os arrepentís, todos pereceréis igualmente.</span>`
         },
     ]
     },
@@ -231,6 +313,7 @@ const bibliotecaBiblica = [
     ]
     },
 
+    /*
     {
     nombre: "",
     versiculos: [
@@ -244,6 +327,7 @@ const bibliotecaBiblica = [
         },
     ]
     },
+    */
 
     {
     nombre: "",
