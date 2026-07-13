@@ -166,6 +166,110 @@ const bibliotecaBiblica = [
     ]
 },
 
+// Aqui empiezan los temas recientes
 
+{
+    nombre: "Cartas perdidas",
+    versiculos: [
+        { 
+            ref: "1 Corintios 16:3",
+            texto: `3. Y cuando haya llegado, a quienes hubiereis designado por carta, a éstos enviaré para que lleven vuestro donativo a Jerusalén.`
+        },
+        { 
+            ref: "1 Tesalonisenses 2:14",
+            texto: `14. Porque vosotros, hermanos, vinisteis a ser imitadores de las iglesias de Dios en Cristo Jesús que están en Judea; pues habéis padecido de los de vuestra propia nación las mismas cosas que ellas padecieron de los judíos,`
+        },
+        {
+            ref: "Apocalipsis 2",
+            texto: `<span class="titulo-seccion">Mensajes a las siete iglesias: El mensaje a Efeso</span>
+                    <span class="letra-roja">
+                        1. Escribe al ángel de la iglesia en Efeso: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice esto:\n
+                        2. Yo conozco tus obras, y tu arduo trabajo y paciencia; y que no puedes soportar a los malos, y has probado a los que se dicen ser apóstoles, y no lo son, y los has hallado mentirosos;\n
+                        3. y has sufrido, y has tenido paciencia, y has trabajado arduamente por amor de mi nombre, y no has desmayado.\n
+                        4. Pero tengo contra ti, que has dejado tu primer amor.\n
+                        5. Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré pronto a ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido.\n
+                        6. Pero tienes esto, que aborreces las obras de los nicolaítas, las cuales yo también aborrezco.\n
+                        7. El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, le daré a comer del árbol de la vida, el cual está en medio del paraíso de Dios.
+                    </span>
+                    <span class="titulo-seccion">El mensaje a Esmirna</span>
+                    <span class="letra-roja">
+                        8. Y escribe al ángel de la iglesia en Esmirna: El primero y el postrero, el que estuvo muerto y vivió, dice esto:\n
+                        9. Yo conozco tus obras, y tu tribulación, y tu pobreza (pero tú eres rico), y la blasfemia de los que se dicen ser judíos, y no lo son, sino sinagoga de Satanás.\n
+                        10. No temas en nada lo que vas a padecer. He aquí, el diablo echará a algunos de vosotros en la cárcel, para que seáis probados, y tendréis tribulación por diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida.\n
+                        11. El que tiene oído, oiga lo que el Espíritu dice a las iglesias. El que venciere, no sufrirá daño de la segunda muerte.\n
+                    </span>
+                    <span class="titulo-seccion">El mensaje a Pérgamo</span>
+                    <span class="letra-roja">
+                        12. Y escribe al ángel de la iglesia en Pérgamo: El que tiene la espada aguda de dos filos dice esto:\n
+                        13. Yo conozco tus obras, y dónde moras, donde está el trono de Satanás; pero retienes mi nombre, y no has negado mi fe, ni aun en los días en que Antipas mi testigo fiel fue muerto entre vosotros, donde mora Satanás.\n
+                        14. Pero tengo unas pocas cosas contra ti: que tienes ahí a los que retienen la doctrina de Balaam, que enseñaba a Balac a poner tropiezo ante los hijos de Israel, a comer de cosas sacrificadas a los ídolos, y a cometer fornicación.\n
+                        15. Y también tienes a los que retienen la doctrina de los nicolaítas, la que yo aborrezco.\n
+                        16. Por tanto, arrepiéntete; pues si no, vendré a ti pronto, y pelearé contra ellos con la espada de mi boca.\n
+                        17. El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, daré a comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita escrito un nombre nuevo, el cual ninguno conoce sino aquel que lo recibe.
+                    </span>
+                    <span class="titulo-seccion">El mensaje a Tiatira</span>
+                    <span class="letra-roja">
+                        18. Y escribe al ángel de la iglesia en Tiatira: El Hijo de Dios, el que tiene ojos como llama de fuego, y pies semejantes al bronce bruñido, dice esto:\n
+                        19. Yo conozco tus obras, y amor, y fe, y servicio, y tu paciencia, y que tus obras postreras son más que las primeras.\n
+                        20. Pero tengo unas pocas cosas contra ti: que toleras que esa mujer Jezabel, que se dice profetisa, enseñe y seduzca a mis siervos a fornicar y a comer cosas sacrificadas a los ídolos.\n
+                        21. Y le he dado tiempo para que se arrepienta, pero no quiere arrepentirse de su fornicación.\n
+                        22. He aquí, yo la arrojo en cama, y en gran tribulación a los que con ella adulteran, si no se arrepienten de las obras de ella.\n
+                        23. Y a sus hijos heriré de muerte, y todas las iglesias sabrán que yo soy el que escudriña la mente y el corazón; y os daré a cada uno según vuestras obras.\n
+                        24. Pero a vosotros y a los demás que están en Tiatira, a cuantos no tienen esa doctrina, y no han conocido lo que ellos llaman las profundidades de Satanás, yo os digo: No os impondré otra carga;\n
+                        25. pero lo que tenéis, retenedlo hasta que yo venga.\n
+                        26. Al que venciere y guardare mis obras hasta el fin, yo le daré autoridad sobre las naciones,\n
+                        27. y las regirá con vara de hierro, y serán quebradas como vaso de alfarero; como yo también la he recibido de mi Padre;\n
+                        28. y le daré la estrella de la mañana.\n
+                        29. El que tiene oído, oiga lo que el Espíritu dice a las iglesias.
+                    </span>`
+        },
+        {
+            ref: "Apocalipsis 3",
+            texto: `<span class="titulo-seccion">El mensaje a Sardis</span>
+                    <span class="letra-roja">
+                        1. Escribe al ángel de la iglesia en Sardis: El que tiene los siete espíritus de Dios, y las siete estrellas, dice esto: Yo conozco tus obras, que tienes nombre de que vives, y estás muerto.\n
+                        2. Sé vigilante, y afirma las otras cosas que están para morir; porque no he hallado tus obras perfectas delante de Dios.\n
+                        3. Acuérdate, pues, de lo que has recibido y oído; y guárdalo, y arrepiéntete. Pues si no velas, vendré sobre ti como ladrón, y no sabrás a qué hora vendré sobre ti.\n
+                        4. Pero tienes unas pocas personas en Sardis que no han manchado sus vestiduras; y andarán conmigo en vestiduras blancas, porque son dignas.\n
+                        5. El que venciere será vestido de vestiduras blancas; y no borraré su nombre del libro de la vida, y confesaré su nombre delante de mi Padre, y delante de sus ángeles.\n
+                        6. El que tiene oído, oiga lo que el Espíritu dice a las iglesias.\n
+                    </span>
+                    <span class="titulo-seccion">El mensaje a Filadelfia</span>
+                    <span class="letra-roja">
+                        7. Escribe al ángel de la iglesia en Filadelfia: Esto dice el Santo, el Verdadero, el que tiene la llave de David, el que abre y ninguno cierra, y cierra y ninguno abre:\n
+                        8. Yo conozco tus obras; he aquí, he puesto delante de ti una puerta abierta, la cual nadie puede cerrar; porque aunque tienes poca fuerza, has guardado mi palabra, y no has negado mi nombre.\n
+                        9. He aquí, yo entrego de la sinagoga de Satanás a los que se dicen ser judíos y no lo son, sino que mienten; he aquí, yo haré que vengan y se postren a tus pies, y reconozcan que yo te he amado.\n
+                        10. Por cuanto has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la prueba que ha de venir sobre el mundo entero, para probar a los que moran sobre la tierra.\n
+                        11. He aquí, yo vengo pronto; retén lo que tienes, para que ninguno tome tu corona.\n
+                        12. Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá de allí; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalén, la cual desciende del cielo, de mi Dios, y mi nombre nuevo.\n
+                        13. El que tiene oído, oiga lo que el Espíritu dice a las iglesias.\n
+                    </span>
+                    <span class="titulo-seccion">El mensaje a Laodicea</span>
+                    <span class="letra-roja">
+                        14. Y escribe al ángel de la iglesia en Laodicea: He aquí el Amén, el testigo fiel y verdadero, el principio de la creación de Dios, dice esto:\n
+                        15. Yo conozco tus obras, que ni eres frío ni caliente. ¡Ojalá fueses frío o caliente!\n
+                        16. Pero por cuanto eres tibio, y no frío ni caliente, te vomitaré de mi boca.\n
+                        17. Porque tú dices: Yo soy rico, y me he enriquecido, y de ninguna cosa tengo necesidad; y no sabes que tú eres un desventurado, miserable, pobre, ciego y desnudo.\n
+                        18. Por tanto, yo te aconsejo que de mí compres oro refinado en fuego, para que seas rico, y vestiduras blancas para vestirte, y que no se descubra la vergüenza de tu desnudez; y unge tus ojos con colirio, para que veas.\n
+                        19. Yo reprendo y castigo a todos los que amo; sé, pues, celoso, y arrepiéntete.\n
+                        20. He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.\n
+                        21. Al que venciere, le daré que se siente conmigo en mi trono, así como yo he vencido, y me he sentado con mi Padre en su trono.\n
+                        22. El que tiene oído, oiga lo que el Espíritu dice a las iglesias.
+                    </span>`
+        },
+        {
+            ref: "Colosenses 4:16",
+            texto: `16. Cuando esta carta haya sido leída entre vosotros, haced que también se lea en la iglesia de los laodicenses, y que la de Laodicea la leáis también vosotros.`
+        },
+        {
+            ref: "Juan 21:25",
+            texto: `25. Y hay también otras muchas cosas que hizo Jesús, las cuales si se escribieran una por una, pienso que ni aun en el mundo cabrían los libros que se habrían de escribir. Amén.`
+        },
+        {
+            ref: "1 Reyes 4:32",
+            texto: `32. Y compuso tres mil proverbios, y sus cantares fueron mil cinco.`
+        },
+    ]
+},
 
 ];
