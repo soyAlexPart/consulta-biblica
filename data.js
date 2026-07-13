@@ -51,6 +51,7 @@ const bibliotecaBiblica = [
     },
 
     {
+        //5
     nombre: "El gran mandamiento",
     versiculos: [
         {
@@ -60,14 +61,19 @@ const bibliotecaBiblica = [
                         35. Y uno de ellos, intérprete de la ley, preguntó por tentarle, diciendo:\n
                         36. Maestro, ¿cuál es el gran mandamiento en la ley?\n
                         37. Jesús le dijo: <span class="letra-roja">Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente.\n
-                        38. Este es el primero y grande mandamiento.\n
-                        39. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo.\n
-                        40. De estos dos mandamientos depende toda la ley y los profetas.\n
-                    </span>`
+                            38. Este es el primero y grande mandamiento.\n
+                            39. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo.\n
+                            40. De estos dos mandamientos depende toda la ley y los profetas.\n
+                        </span>`
         },
         {
-            ref: "",
-            texto: ``
+            ref: "Marcos 12:28-31",
+            texto: `<span class="titulo-seccion">El gran mandamiento</span>
+                        28. Acercándose uno de los escribas, que los había oído disputar, y sabía que les había respondido bien, le preguntó: ¿Cuál es el primer mandamiento de todos?\n
+                        29. Jesús le respondió: <span class="letra-roja">El primer mandamiento de todos es: Oye, Israel; el Señor nuestro Dios, el Señor uno es.\n
+                            30. Y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente y con todas tus fuerzas. Este es el principal mandamiento.\n
+                            31. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos.
+                        </span>`
         },
         {
             ref: "Deuteronomio 6:4-5",
@@ -78,6 +84,7 @@ const bibliotecaBiblica = [
     },
 
     {
+        //6
     nombre: "La justicia de Dios (Dios es justo)",
     versiculos: [
         {
@@ -117,6 +124,7 @@ const bibliotecaBiblica = [
     },
     
     {
+        //7
     nombre: "Amarte a ti mismo",
     versiculos: [
         {
@@ -130,6 +138,7 @@ const bibliotecaBiblica = [
     },
 
     {
+        //8
     nombre: "Lo tengo por basura",
     versiculos: [
         {
@@ -141,6 +150,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //9
     nombre: "Descansar",
     versiculos: [
         {
@@ -167,6 +177,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //10
     nombre: "Hablar conforme a la palabra",
     versiculos: [
         {
@@ -177,6 +188,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //11
     nombre: "Ejercicio corporal",
     versiculos: [
         {
@@ -190,6 +202,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //12
     nombre: "Permanecer en la palabra",
     versiculos: [
         {
@@ -210,6 +223,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //13
     nombre: "Ponerle el sentido",
     versiculos: [
         {
@@ -238,6 +252,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //14
     nombre: "Visita con Jesús (Tendrás tiempo)",
     versiculos: [
         {
@@ -253,6 +268,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //15
     nombre: "Dios castiga",
     versiculos: [
         {
@@ -291,10 +307,62 @@ const bibliotecaBiblica = [
             ref: "Lucas 13:1-5",
             texto: `<span class="titulo-seccion">Arrepentíos o pereceréis</span>
                         1. En este mismo tiempo estaban allí algunos que le contaban acerca de los galileos cuya sangre Pilato había mezclado con los sacrificios de ellos.\n
-                        2. Respondiendo Jesús, les dijo: <span class="letra-roja"> ¿Pensáis que estos galileos, porque padecieron tales cosas, eran más pecadores que todos los galileos?\n
-                        3. Os digo: No; antes si no os arrepentís, todos pereceréis igualmente.\n
-                        4. O aquellos dieciocho sobre los cuales cayó la torre en Siloé, y los mató, ¿pensáis que eran más culpables que todos los hombres que habitan en Jerusalén?\n
-                        5. Os digo: No; antes si no os arrepentís, todos pereceréis igualmente.</span>`
+                        2. Respondiendo Jesús, les dijo: 
+                            <span class="letra-roja"> ¿Pensáis que estos galileos, porque padecieron tales cosas, eran más pecadores que todos los galileos?\n
+                                3. Os digo: No; antes si no os arrepentís, todos pereceréis igualmente.\n
+                                4. O aquellos dieciocho sobre los cuales cayó la torre en Siloé, y los mató, ¿pensáis que eran más culpables que todos los hombres que habitan en Jerusalén?\n
+                                5. Os digo: No; antes si no os arrepentís, todos pereceréis igualmente.
+                            </span>`
+        },
+    ]
+    },
+
+    {
+    nombre: "Venganza",
+    versiculos: [
+        {
+            ref: "Romanos 12:19",
+            texto: `19. No os venguéis vosotros mismos, amados míos, sino dejad lugar a la ira de Dios; porque escrito está: Mía es la venganza, yo pagaré, dice el Señor.`
+        },
+    ]
+    },
+
+    {
+    nombre: "No hay profeta sin honra sino en su propia tierra",
+    versiculos: [
+        {
+            ref: "Marcos 6:1-6",
+            texto: `<span class="titulo-seccion">Jesús en Nazaret</span>
+                        1. Salió Jesús de allí y vino a su tierra, y le seguían sus discípulos.\n
+                        2. Y llegado el día de reposo, comenzó a enseñar en la sinagoga; y muchos, oyéndole, se admiraban, y decían: ¿De dónde tiene éste estas cosas? ¿Y qué sabiduría es esta que le es dada, y estos milagros que por sus manos son hechos?\n
+                        3. ¿No es éste el carpintero, hijo de María, hermano de Jacobo, de José, de Judas y de Simón? ¿No están también aquí con nosotros sus hermanas? Y se escandalizaban de él.\n
+                        4. Mas Jesús les decía: 
+                            <span class="letra-roja">No hay profeta sin honra sino en su propia tierra, y entre sus parientes, y en su casa.</span>\n
+                        5. Y no pudo hacer allí ningún milagro, salvo que sanó a unos pocos enfermos, poniendo sobre ellos las manos.\n
+                        6. Y estaba asombrado de la incredulidad de ellos. Y recorría las aldeas de alrededor, enseñando.`
+        },
+    ]
+    },
+
+    {
+    nombre: "El consejo de Dios",
+    versiculos: [
+        {
+            ref: "Proverbios 27:9",
+            texto: `9. El ungüento y el perfume alegran el corazón,
+                    Y el cordial consejo del amigo, al hombre.`
+        },
+        {
+            ref: "Proverbios 13:1",
+            texto: `1. El hijo sabio recibe el consejo del padre;
+                    Mas el burlador no escucha las reprensiones.`
+        },
+        {
+            ref: "Proverbios 19:20-21",
+            texto: `20. Escucha el consejo, y recibe la corrección,
+                    Para que seas sabio en tu vejez.\n
+                    21. Muchos pensamientos hay en el corazón del hombre;
+                    Mas el consejo de Jehová permanecerá.`
         },
     ]
     },
@@ -399,12 +467,25 @@ const bibliotecaBiblica = [
 {
     nombre: "La falsamente llamada ciencia",
     versiculos: [
-        { ref: "1 Corintios 12:8",
-            texto: `8. Porque a éste es dada por el Espíritu palabra de sabiduría; a otro, palabra de ciencia según el mismo Espíritu;`
+        { ref: "1 Corintios 12:1-11",
+            texto: `<span class="titulo-seccion">Dones espirituales</span>
+                        1. No quiero, hermanos, que ignoréis acerca de los dones espirituales.\n
+                        2. Sabéis que cuando erais gentiles, se os extraviaba llevándoos, como se os llevaba, a los ídolos mudos.\n
+                        3. Por tanto, os hago saber que nadie que hable por el Espíritu de Dios llama anatema a Jesús; y nadie puede llamar a Jesús Señor, sino por el Espíritu Santo.\n
+                        4. Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.\n
+                        5. Y hay diversidad de ministerios, pero el Señor es el mismo.\n
+                        6. Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo.\n
+                        7. Pero a cada uno le es dada la manifestación del Espíritu para provecho.\n
+                        8. Porque a éste es dada por el Espíritu palabra de sabiduría; a otro, palabra de ciencia según el mismo Espíritu;\n
+                        9. a otro, fe por el mismo Espíritu; y a otro, dones de sanidades por el mismo Espíritu.\n
+                        10. A otro, el hacer milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversos géneros de lenguas; y a otro, interpretación de lenguas.\n
+                        11. Pero todas estas cosas las hace uno y el mismo Espíritu, repartiendo a cada uno en particular como él quiere.`
         },
         { 
-            ref: "2 Cronicas 1:10-12",
-            texto: `10. Dame ahora sabiduría y ciencia, para presentarme delante de este pueblo; porque, quién podrá gobernar a este tu pueblo tan grande?\n
+            ref: "2 Cronicas 1:8-12",
+            texto: `8. Y Salomón dijo a Dios: Tú has tenido con David mi padre gran misericordia, y a mí me has puesto por rey en lugar suyo.\n
+                    9. Confírmese pues, ahora, oh Jehová Dios, tu palabra dada a David mi padre, porque tú me has puesto por rey sobre un pueblo numeroso como el polvo de la tierra.\n
+                    10. Dame ahora sabiduría y ciencia, para presentarme delante de este pueblo; porque, quién podrá gobernar a este tu pueblo tan grande?\n
                     11. Y dijo Dios a Salomón: por cuanto hubo esto en tu corazón, y no pediste riquezas, bienes o gloria, ni la vida de los que te quieren mal, ni pediste muchos días, sino que has pedido para ti sabiduría y ciencia para gobernar a mi pueblo, sobre el cual te he puesto por rey,\n
                     12. sabiduría y ciencia te son dadas; y también te daré riquezas, bienes y gloria, como nunca tuvieron los reyes que han sido antes de ti, ni tendrán los que vengan después de ti.`
         },
@@ -420,6 +501,12 @@ const bibliotecaBiblica = [
         {
             ref: "Proverbios 8:12",
             texto: `12. Yo soy sabiduría; yo soy entendimiento; yo soy consejo; yo soy poder.\n`
+        },
+        {
+            ref: "1 Timoteo 6:20-21",
+            texto: `<span class="titulo-seccion">Encargo final de Pablo a Timoteo</span>
+                        20. Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas pláticas sobre cosas vanas, y los argumentos de la falsamente llamada ciencia,\n
+                        21. la cual profesando algunos, se desviaron de la fe. La gracia sea contigo. Amén.`
         }
     ]
 },
@@ -545,8 +632,10 @@ const bibliotecaBiblica = [
     nombre: "Hecho hijo de Dios",
     versiculos: [
         {
-            ref: "Juan 1:12",
-            texto: `12. Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;`
+            ref: "Juan 1:12-13",
+            texto: `<span class="titulo-seccion">La entrada triunfal en Jerusalén</span>
+                        12. El siguiente día, grandes multitudes que habían venido a la fiesta, al oír que Jesús venía a Jerusalén,\n
+                        13. tomaron ramas de palmera y salieron a recibirle, y clamaban: ¡Hosanna! ¡Bendito el que viene en el nombre del Señor, el Rey de Israel!`
         },
         {
             ref: "Mateo 12:46-50",
