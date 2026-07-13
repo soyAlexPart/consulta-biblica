@@ -1,4 +1,62 @@
 const bibliotecaBiblica = [
+
+    /*
+    {
+    nombre: "",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+    ]
+    },
+    */
+    
+    {
+    nombre: "¿Por que hay que congregarnos?",
+    versiculos: [
+        {
+            ref: "Hebreos 10:24-25",
+            texto: `25. no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca.`
+        },
+    ]
+    },
+
+    {
+    nombre: "Alabanza por los hechos poderosos de Dios",
+    versiculos: [
+        {
+            ref: "Sal 66:9",
+            texto: `9. El es quien preservó la vida a nuestra alma, Y no permitió que nuestros pies resbalasen.`
+        },
+    ]
+    },
+
+    {
+    nombre: "El que me sigue, no andará en tinieblas",
+    versiculos: [
+        {
+            ref: "Juan 8:12",
+            texto: `<span class="titulo-seccion">Jesús, la luz del mundo</span>
+                        12. Otra vez Jesús les habló, diciendo: 
+                            <span class="letra-roja">Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.</span>`
+        },
+        {
+            ref: "Hechos 26:18",
+            texto: `18. para que abras sus ojos, para que se conviertan de las tinieblas a la luz, y de la potestad de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y herencia entre los santificados.`
+        },
+    ]
+    },
+
+    {
+    nombre: "",
+    versiculos: []
+    },
+    
     {
         nombre: "¿Por que no prestar?",
         versiculos: [
@@ -166,6 +224,7 @@ const bibliotecaBiblica = [
     ]
 },
 
+/* 
 {
     nombre: "",
     versiculos: [
@@ -178,6 +237,12 @@ const bibliotecaBiblica = [
             texto: ``
         },
     ]
+}, 
+*/
+
+{
+    nombre: "",
+    versiculos: []
 },
 
 // Aqui empiezan los temas recientes
