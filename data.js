@@ -185,6 +185,20 @@ const bibliotecaBiblica = [
 
 
 
+
+{
+    nombre: "¿Cómo saber si alguien ama a Dios?",
+    versiculos: [
+        {
+            ref: "Juan 14:21-24",
+            texto: `21. Si me aman, guardarán mi palabra; y mi Padre les amará, y vendrá a ellos y hará su morada con ellos.\n
+                    22. No me aman, porque no guardan mis palabras.\n
+                    23. Y el que guarda mis palabras, ése es el que me ama; y el que me ama, será amado por mi Padre, y yo le amaré y me manifestaré a él.\n
+                    24. El que no me ama, no guarda mis palabras; y la palabra que oye no es mía, sino del Padre que me envió.`
+        },
+    ]
+},
+
 {
     nombre: "Hecho hijo de Dios",
     versiculos: [
