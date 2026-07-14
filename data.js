@@ -701,14 +701,135 @@ const bibliotecaBiblica = [
     ]
     },
 
+    {
+    //Este es el tema: 30
+    nombre: "No se unan en yugo desigual",
+    versiculos: [
+        {
+            ref: "2 Corintios 6:14-18",
+            texto: `<span class="titulo-seccion">Somos templo del Dios viviente</span>
+                        14. No os unáis en yugo desigual con los incrédulos; porque ¿qué compañerismo tiene la justicia con la injusticia? ¿Y qué comunión la luz con las tinieblas?\n 
+                        15. ¿Y qué concordia Cristo con Belial? ¿O qué parte el creyente con el incrédulo?\n 
+                        16. ¿Y qué acuerdo hay entre el templo de Dios y los ídolos? Porque vosotros sois el templo del Dios viviente, como Dios dijo:\n 
+                            Habitaré y andaré entre ellos,
+                            Y seré su Dios,
+                            Y ellos serán mi pueblo.\n 
+                        17. Por lo cual,\n 
+                            Salid de en medio de ellos, y apartaos, dice el Señor,
+                            Y no toquéis lo inmundo;
+                            Y yo os recibiré,\n 
+                        18. Y seré para vosotros por Padre,
+                            Y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 31
+    nombre: "La ofrenda especial",
+    versiculos: [
+        {
+            ref: "Importante: En la ofrenda especial es probado nuestro amor",
+            tipo: "titulo",
+        },
+        {
+            ref: "Romanos 15:22-27",
+            texto: `<span class="titulo-seccion">Pablo se propone ir a Roma</span>
+                        22. Por esta causa me he visto impedido muchas veces de ir a vosotros.\n
+                        23. Pero ahora, no teniendo más campo en estas regiones, y deseando desde hace muchos años ir a vosotros,\n
+                        24. cuando vaya a España, iré a vosotros; porque espero veros al pasar, y ser encaminado allá por vosotros, una vez que haya gozado con vosotros.\n
+                        25. Mas ahora voy a Jerusalén para ministrar a los santos.\n
+                        26. Porque Macedonia y Acaya tuvieron a bien hacer una ofrenda para los pobres que hay entre los santos que están en Jerusalén.\n
+                        27. Pues les pareció bueno, y son deudores a ellos; porque si los gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos ministrarles de los materiales.`
+        },
+        {
+            ref: "1 Corintios 16:1-4",
+            texto: `<span class="titulo-seccion">La ofrenda para los santos</span>
+                        1. En cuanto a la ofrenda para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia.\n
+                        2. Cada primer día de la semana cada uno de vosotros ponga aparte algo, según haya prosperado, guardándolo, para que cuando yo llegue no se recojan entonces ofrendas.\n
+                        3. Y cuando haya llegado, a quienes hubiereis designado por carta, a éstos enviaré para que lleven vuestro donativo a Jerusalén.\n
+                        4. Y si fuere propio que yo también vaya, irán conmigo.`
+        },
+        {
+            ref: "2 Corintios 8",
+            texto: `<span class="titulo-seccion">La ofrenda para los santos</span>
+                        1. Asimismo, hermanos, os hacemos saber la gracia de Dios que se ha dado a las iglesias de Macedonia;\n
+                        2. que en grande prueba de tribulación, la abundancia de su gozo y su profunda pobreza abundaron en riquezas de su generosidad.\n
+                        3. Pues doy testimonio de que con agrado han dado conforme a sus fuerzas, y aun más allá de sus fuerzas,\n
+                        4. pidiéndonos con muchos ruegos que les concediésemos el privilegio de participar en este servicio para los santos.\n
+                        5. Y no como lo esperábamos, sino que a sí mismos se dieron primeramente al Señor, y luego a nosotros por la voluntad de Dios;\n
+                        6. de manera que exhortamos a Tito para que tal como comenzó antes, asimismo acabe también entre vosotros esta obra de gracia.\n
+                        7. Por tanto, como en todo abundáis, en fe, en palabra, en ciencia, en toda solicitud, y en vuestro amor para con nosotros, abundad también en esta gracia.\n
+                        8. No hablo como quien manda, sino para poner a prueba, por medio de la diligencia de otros, también la sinceridad del amor vuestro.\n
+                        9. Porque ya conocéis la gracia de nuestro Señor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico, para que vosotros con su pobreza fueseis enriquecidos.\n
+                        10. Y en esto doy mi consejo; porque esto os conviene a vosotros, que comenzasteis antes, no sólo a hacerlo, sino también a quererlo, desde el año pasado.\n
+                        11. Ahora, pues, llevad también a cabo el hacerlo, para que como estuvisteis prontos a querer, así también lo estéis en cumplir conforme a lo que tengáis.\n
+                        12. Porque si primero hay la voluntad dispuesta, será acepta según lo que uno tiene, no según lo que no tiene.\n
+                        13. Porque no digo esto para que haya para otros holgura, y para vosotros estrechez,\n
+                        14. sino para que en este tiempo, con igualdad, la abundancia vuestra supla la escasez de ellos, para que también la abundancia de ellos supla la necesidad vuestra, para que haya igualdad,\n
+                        15. como está escrito: El que recogió mucho, no tuvo más, y el que poco, no tuvo menos.\n
+                        16. Pero gracias a Dios que puso en el corazón de Tito la misma solicitud por vosotros.\n
+                        17. Pues a la verdad recibió la exhortación; pero estando también muy solícito, por su propia voluntad partió para ir a vosotros.\n
+                        18. Y enviamos juntamente con él al hermano cuya alabanza en el evangelio se oye por todas las iglesias;\n
+                        19. y no sólo esto, sino que también fue designado por las iglesias como compañero de nuestra peregrinación para llevar este donativo, que es administrado por nosotros para gloria del Señor mismo, y para demostrar vuestra buena voluntad;\n
+                        20. evitando que nadie nos censure en cuanto a esta ofrenda abundante que administramos,\n
+                        21. procurando hacer las cosas honradamente, no sólo delante del Señor sino también delante de los hombres.\n
+                        22. Enviamos también con ellos a nuestro hermano, cuya diligencia hemos comprobado repetidas veces en muchas cosas, y ahora mucho más diligente por la mucha confianza que tiene en vosotros.\n
+                        23. En cuanto a Tito, es mi compañero y colaborador para con vosotros; y en cuanto a nuestros hermanos, son mensajeros de las iglesias, y gloria de Cristo.\n
+                        24. Mostrad, pues, para con ellos ante las iglesias la prueba de vuestro amor, y de nuestro gloriarnos respecto de vosotros.`
+        },
+        {
+            ref: "Filipenses 4:14-20",
+            texto: `    14. Sin embargo, bien hicisteis en participar conmigo en mi tribulación.\n
+                        15. Y sabéis también vosotros, oh filipenses, que al principio de la predicación del evangelio, cuando partí de Macedonia, ninguna iglesia participó conmigo en razón de dar y recibir, sino vosotros solos;\n
+                        16. pues aun a Tesalónica me enviasteis una y otra vez para mis necesidades.\n
+                        17. No es que busque dádivas, sino que busco fruto que abunde en vuestra cuenta.\n
+                        18. Pero todo lo he recibido, y tengo abundancia; estoy lleno, habiendo recibido de Epafrodito lo que enviasteis; olor fragante, sacrificio acepto, agradable a Dios.\n
+                        19. Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.\n
+                        20. Al Dios y Padre nuestro sea gloria por los siglos de los siglos. Amén.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 32
+    nombre: "Evangelio",
+    versiculos: [
+        {
+            ref: "1 Corintios 15:1-8",
+            texto: `<span class="titulo-seccion">La resurrección de los muertos</span>
+                    1. Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual también perseveráis;\n
+                    2. por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.\n
+                    3. Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras;\n
+                    4. y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras;\n
+                    5. y que apareció a Cefas, y después a los doce.\n
+                    6. Después apareció a más de quinientos hermanos a la vez, de los cuales muchos viven aún, y otros ya duermen.\n
+                    7. Después apareció a Jacobo; después a todos los apóstoles;\n
+                    8. y al último de todos, como a un abortivo, me apareció a mí.`,
+        },
+        {
+            ref: "Proximamente ...",
+            texto: `Proximamente ...`
+        },
+        {
+            ref: "Proximamente ...",
+            texto: `Proximamente ...`
+        },
+        {
+            ref: "Proximamente ...",
+            texto: `Proximamente ...`
+        },
+    ]
+    },
+
     /*
     {
-    //Este es el tema:
+    //Este es el tema: 
     nombre: "",
     versiculos: [
         {
             ref: "",
-            texto: ``
+            texto: ``,
         },
         {
             ref: "",

@@ -65,17 +65,30 @@ function renderizar(datos, abrirTodo = false) {
 
         tema.versiculos.forEach(v => {
 
-            const claseRojo = v.rojo ? 'letra-roja' : '';
+    const claseRojo = v.rojo ? 'letra-roja' : '';
 
-            dTema.innerHTML += `
-                <details>
-                    <summary>${v.ref}</summary>
-                    <div class="versiculo-texto ${claseRojo}">
-                        ${v.texto}
-                    </div>
-                </details>
-            `;
-        });
+    if (v.tipo === "titulo") {
+
+        dTema.innerHTML += `
+            <div class="subtitulo">
+                ${v.ref}
+            </div>
+        `;
+
+    } else {
+
+        dTema.innerHTML += `
+            <details>
+                <summary>${v.ref}</summary>
+                <div class="versiculo-texto ${claseRojo}">
+                    ${v.texto}
+                </div>
+            </details>
+        `;
+
+    }
+
+});
 
         areaContenido.appendChild(dTema);
 
