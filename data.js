@@ -631,9 +631,8 @@ const bibliotecaBiblica = [
         {
             ref: "Juan 7:37-39",
             texto: `<span class="titulo-seccion">Ríos de agua viva</span>
-                        37. En el último y gran día de la fiesta, Jesús se puso en pie y alzó la voz, diciendo: 
-                            <span class="letra-roja">Si alguno tiene sed, venga a mí y beba.\n 
-                                38. El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva.</span>\n 
+                        37. En el último y gran día de la fiesta, Jesús se puso en pie y alzó la voz, diciendo: <span class="letra-roja">Si alguno tiene sed, venga a mí y beba.\n 
+                        38. El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva.</span>\n 
                         39. Esto dijo del Espíritu que habían de recibir los que creyesen en él; pues aún no había venido el Espíritu Santo, porque Jesús no había sido aún glorificado.`
         },
         {
@@ -661,6 +660,43 @@ const bibliotecaBiblica = [
                         36. Y yendo por el camino, llegaron a cierta agua, y dijo el eunuco: Aquí hay agua; ¿qué impide que yo sea bautizado?\n 
                         37. Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios.\n 
                         38. Y mandó parar el carro; y descendieron ambos al agua, Felipe y el eunuco, y le bautizó.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 28
+    nombre: "Nunca estas solo",
+    versiculos: [
+        {
+            ref: "Juan 16:32",
+            texto: `<span class="letra-roja"> 32. He aquí la hora viene, y ha venido ya, en que seréis esparcidos cada uno por su lado, y me dejaréis solo; mas no estoy solo, porque el Padre está conmigo.</span>`
+        },
+        {
+            ref: "Romanos 10:15",
+            texto: `15. ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian la paz, de los que anuncian buenas nuevas!`
+        },
+        {
+            ref: "Salmos 27:10",
+            texto: `10. Aunque mi padre y mi madre me dejaran,
+                    Con todo, Jehová me recogerá.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 29
+    nombre: "¿Cómo saber si alguien ama a Dios?",
+    versiculos: [
+        {
+            ref: "Juan 14:21-24",
+            texto: `    <span class="letra-roja">
+                            21. El que tiene mis mandamientos, y los guarda, ése es el que me ama; y el que me ama, será amado por mi Padre, y yo le amaré, y me manifestaré a él.
+                        </span>
+                    22. Le dijo Judas (no el Iscariote): Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?\n 
+                    23. Respondió Jesús y le dijo: <span class="letra-roja">El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos a él, y haremos morada con él.\n 
+                            24. El que no me ama, no guarda mis palabras; y la palabra que habéis oído no es mía, sino del Padre que me envió.
+                        </span>`
         },
     ]
     },
@@ -894,23 +930,6 @@ const bibliotecaBiblica = [
 },
 
 // Aqui empiezan los temas recientes
-
-
-
-
-
-{
-    nombre: "¿Cómo saber si alguien ama a Dios?",
-    versiculos: [
-        {
-            ref: "Juan 14:21-24",
-            texto: `21. Si me aman, guardarán mi palabra; y mi Padre les amará, y vendrá a ellos y hará su morada con ellos.\n
-                    22. No me aman, porque no guardan mis palabras.\n
-                    23. Y el que guarda mis palabras, ése es el que me ama; y el que me ama, será amado por mi Padre, y yo le amaré y me manifestaré a él.\n
-                    24. El que no me ama, no guarda mis palabras; y la palabra que oye no es mía, sino del Padre que me envió.`
-        },
-    ]
-},
 
 {
     nombre: "Hecho hijo de Dios",
