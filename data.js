@@ -503,12 +503,23 @@ const bibliotecaBiblica = [
     nombre: "El paralitico de Betesda",
     versiculos: [
         {
-            ref: "",
-            texto: ``
-        },
-        {
-            ref: "",
-            texto: ``
+            ref: "Juan 5:1-15",
+            texto: `<span class="titulo-seccion">El paralítico de Betesda</span>
+                        1. Después de estas cosas había una fiesta de los judíos, y subió Jesús a Jerusalén.\n
+                        2. Y hay en Jerusalén, cerca de la puerta de las ovejas, un estanque, llamado en hebreo Betesda, el cual tiene cinco pórticos.\n
+                        3. En éstos yacía una multitud de enfermos, ciegos, cojos y paralíticos, que esperaban el movimiento del agua.\n
+                        4. Porque un ángel descendía de tiempo en tiempo al estanque, y agitaba el agua; y el que primero descendía al estanque después del movimiento del agua, quedaba sano de cualquier enfermedad que tuviese.\n
+                        5. Y había allí un hombre que hacía treinta y ocho años que estaba enfermo.\n
+                        6. Cuando Jesús lo vio acostado, y supo que llevaba ya mucho tiempo así, le dijo: <span class="letra-roja">¿Quieres ser sano?</span>\n
+                        7. Señor, le respondió el enfermo, no tengo quien me meta en el estanque cuando se agita el agua; y entre tanto que yo voy, otro desciende antes que yo.\n
+                        8. Jesús le dijo: <span class="letra-roja">Levántate, toma tu lecho, y anda.</span>\n
+                        9. Y al instante aquel hombre fue sanado, y tomó su lecho, y anduvo. Y era día de reposo aquel día.\n
+                        10. Entonces los judíos dijeron a aquel que había sido sanado: Es día de reposo; no te es lícito llevar tu lecho.\n
+                        11. El les respondió: El que me sanó, él mismo me dijo: Toma tu lecho y anda.\n
+                        12. Entonces le preguntaron: ¿Quién es el que te dijo: Toma tu lecho y anda?\n
+                        13. Y el que había sido sanado no sabía quién fuese, porque Jesús se había apartado de la gente que estaba en aquel lugar.\n
+                        14. Después le halló Jesús en el templo, y le dijo: <span class="letra-roja">Mira, has sido sanado; no peques más, para que no te venga alguna cosa peor.</span>\n
+                        15. El hombre se fue, y dio aviso a los judíos, que Jesús era el que le había sanado.`
         },
     ]
     },
@@ -518,12 +529,138 @@ const bibliotecaBiblica = [
     nombre: "Incredulidad",
     versiculos: [
         {
-            ref: "",
-            texto: ``
+            ref: "Juan 7:1-5",
+            texto: `<span class="titulo-seccion">Incredulidad de los hermanos de Jesús</span>
+                        1. Después de estas cosas, andaba Jesús en Galilea; pues no quería andar en Judea, porque los judíos procuraban matarle.\n
+                        2. Estaba cerca la fiesta de los judíos, la de los tabernáculos;\n
+                        3. y le dijeron sus hermanos: Sal de aquí, y vete a Judea, para que también tus discípulos vean las obras que haces.\n
+                        4. Porque ninguno que procura darse a conocer hace algo en secreto. Si estas cosas haces, manifiéstate al mundo.\n
+                        5. Porque ni aun sus hermanos creían en él.`
         },
         {
-            ref: "",
-            texto: ``
+            ref: "Marcos 6:3",
+            texto: `    3. ¿No es éste el carpintero, hijo de María, hermano de Jacobo, de José, de Judas y de Simón? ¿No están también aquí con nosotros sus hermanas? Y se escandalizaban de él.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 25
+    nombre: "Testigos de Jehova",
+    versiculos: [
+        {
+            ref: "Isaias 43",
+            texto: `<span class="titulo-seccion">Jehová es el único Redentor</span>
+                        1. Ahora, así dice Jehová, Creador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, porque yo te redimí; te puse nombre, mío eres tú.\n
+                        2. Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.\n
+                        3. Porque yo Jehová, Dios tuyo, el Santo de Israel, soy tu Salvador; a Egipto he dado por tu rescate, a Etiopía y a Seba por ti.\n
+                        4. Porque a mis ojos fuiste de gran estima, fuiste honorable, y yo te amé; daré, pues, hombres por ti, y naciones por tu vida.\n
+                        5. No temas, porque yo estoy contigo; del oriente traeré tu generación, y del occidente te recogeré.\n
+                        6. Diré al norte: Da acá; y al sur: No detengas; trae de lejos mis hijos, y mis hijas de los confines de la tierra,\n
+                        7. todos los llamados de mi nombre; para gloria mía los he creado, los formé y los hice.\n
+                        8. Sacad al pueblo ciego que tiene ojos, y a los sordos que tienen oídos.\n
+                        9. Congréguense a una todas las naciones, y júntense todos los pueblos. ¿Quién de ellos hay que nos dé nuevas de esto, y que nos haga oír las cosas primeras? Presenten sus testigos, y justifíquense; oigan, y digan: Verdad es.\n
+                        10. Vosotros sois mis testigos, dice Jehová, y mi siervo que yo escogí, para que me conozcáis y creáis, y entendáis que yo mismo soy; antes de mí no fue formado dios, ni lo será después de mí.\n
+                        11. Yo, yo Jehová, y fuera de mí no hay quien salve.\n
+                        12. Yo anuncié, y salvé, e hice oír, y no hubo entre vosotros dios ajeno. Vosotros, pues, sois mis testigos, dice Jehová, que yo soy Dios.\n
+                        13. Aun antes que hubiera día, yo era; y no hay quien de mi mano libre. Lo que hago yo, ¿quién lo estorbará?\n
+                        14. Así dice Jehová, Redentor vuestro, el Santo de Israel: Por vosotros envié a Babilonia, e hice descender como fugitivos a todos ellos, aun a los caldeos en las naves de que se gloriaban.\n
+                        15. Yo Jehová, Santo vuestro, Creador de Israel, vuestro Rey.\n
+                        16. Así dice Jehová, el que abre camino en el mar, y senda en las aguas impetuosas;\n
+                        17. el que saca carro y caballo, ejército y fuerza; caen juntamente para no levantarse; fenecen, como pábilo quedan apagados.\n
+                        18. No os acordéis de las cosas pasadas, ni traigáis a memoria las cosas antiguas.\n
+                        19. He aquí que yo hago cosa nueva; pronto saldrá a luz; ¿no la conoceréis? Otra vez abriré camino en el desierto, y ríos en la soledad.\n
+                        20. Las fieras del campo me honrarán, los chacales y los pollos del avestruz; porque daré aguas en el desierto, ríos en la soledad, para que beba mi pueblo, mi escogido.\n
+                        21. Este pueblo he creado para mí; mis alabanzas publicará.\n
+                        22. Y no me invocaste a mí, oh Jacob, sino que de mí te cansaste, oh Israel.\n
+                        23. No me trajiste a mí los animales de tus holocaustos, ni a mí me honraste con tus sacrificios; no te hice servir con ofrenda, ni te hice fatigar con incienso.\n
+                        24. No compraste para mí caña aromática por dinero, ni me saciaste con la grosura de tus sacrificios, sino pusiste sobre mí la carga de tus pecados, me fatigaste con tus maldades.\n
+                        25. Yo, yo soy el que borro tus rebeliones por amor de mí mismo, y no me acordaré de tus pecados.\n
+                        26. Hazme recordar, entremos en juicio juntamente; habla tú para justificarte.\n
+                        27. Tu primer padre pecó, y tus enseñadores prevaricaron contra mí.\n
+                        28. Por tanto, yo profané los príncipes del santuario, y puse por anatema a Jacob y por oprobio a Israel.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 26
+    nombre: "Denominaciones",
+    versiculos: [
+        {
+            ref: "Hechos 2:1-13",
+            texto: `<span class="titulo-seccion">La venida del Espíritu Santo</span>
+                        1. Cuando llegó el día de Pentecostés, estaban todos unánimes juntos.\n
+                        2. Y de repente vino del cielo un estruendo como de un viento recio que soplaba, el cual llenó toda la casa donde estaban sentados;\n
+                        3. y se les aparecieron lenguas repartidas, como de fuego, asentándose sobre cada uno de ellos.\n
+                        4. Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu les daba que hablasen.\n
+                        5. Moraban entonces en Jerusalén judíos, varones piadosos, de todas las naciones bajo el cielo.\n
+                        6. Y hecho este estruendo, se juntó la multitud; y estaban confusos, porque cada uno les oía hablar en su propia lengua.\n
+                        7. Y estaban atónitos y maravillados, diciendo: Mirad, ¿no son galileos todos estos que hablan?\n
+                        8. ¿Cómo, pues, les oímos nosotros hablar cada uno en nuestra lengua en la que hemos nacido?\n
+                        9. Partos, medos, elamitas, y los que habitamos en Mesopotamia, en Judea, en Capadocia, en el Ponto y en Asia,\n
+                        10. en Frigia y Panfilia, en Egipto y en las regiones de Africa más allá de Cirene, y romanos aquí residentes, tanto judíos como prosélitos,\n
+                        11. cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios.\n
+                        12. Y estaban todos atónitos y perplejos, diciéndose unos a otros: ¿Qué quiere decir esto?\n
+                        13. Mas otros, burlándose, decían: Están llenos de mosto.`
+        },
+        {
+            ref: "Hechos 11:26",
+            texto: `    26. Y se congregaron allí todo un año con la iglesia, y enseñaron a mucha gente; y a los discípulos se les llamó cristianos por primera vez en Antioquía.`
+        },
+        {
+            ref: "Romanos 16:16",
+            texto: `    16. Saludaos los unos a los otros con ósculo santo. Os saludan todas las iglesias de Cristo.`
+        },
+        {
+            ref: "Hechos 26:28-29",
+            texto: `    28. Entonces Agripa dijo a Pablo: Por poco me persuades a ser cristiano.\n  
+                        29. Y Pablo dijo: ¡Quisiera Dios que por poco o por mucho, no solamente tú, sino también todos los que hoy me oyen, fueseis hechos tales cual yo soy, excepto estas cadenas!`
+        },
+        {
+            ref: "1 Corintios 16:8",
+            texto: `    8. Pero estaré en Efeso hasta Pentecostés;`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 27
+    nombre: "¿Que es el Espiritu Santo?",
+    versiculos: [
+        {
+            ref: "Juan 7:37-39",
+            texto: `<span class="titulo-seccion">Ríos de agua viva</span>
+                        37. En el último y gran día de la fiesta, Jesús se puso en pie y alzó la voz, diciendo: 
+                            <span class="letra-roja">Si alguno tiene sed, venga a mí y beba.\n 
+                                38. El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva.</span>\n 
+                        39. Esto dijo del Espíritu que habían de recibir los que creyesen en él; pues aún no había venido el Espíritu Santo, porque Jesús no había sido aún glorificado.`
+        },
+        {
+            ref: "1 Juan 5:7",
+            texto: `    7. Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo; y estos tres son uno.`
+        },
+        {
+            ref: "Hechos 8:26-38",
+            texto: `<span class="titulo-seccion">Felipe y el etíope</span>
+                        26. Un ángel del Señor habló a Felipe, diciendo: Levántate y ve hacia el sur, por el camino que desciende de Jerusalén a Gaza, el cual es desierto.\n 
+                        27. Entonces él se levantó y fue. Y sucedió que un etíope, eunuco, funcionario de Candace reina de los etíopes, el cual estaba sobre todos sus tesoros, y había venido a Jerusalén para adorar,\n 
+                        28. volvía sentado en su carro, y leyendo al profeta Isaías.\n 
+                        29. Y el Espíritu dijo a Felipe: Acércate y júntate a ese carro.\n 
+                        30. Acudiendo Felipe, le oyó que leía al profeta Isaías, y dijo: Pero ¿entiendes lo que lees?\n 
+                        31. El dijo: ¿Y cómo podré, si alguno no me enseñare? Y rogó a Felipe que subiese y se sentara con él.\n 
+                        32. El pasaje de la Escritura que leía era este:\n 
+                            Como oveja a la muerte fue llevado;
+                            Y como cordero mudo delante del que lo trasquila,
+                            Así no abrió su boca.\n 
+                        33. En su humillación no se le hizo justicia;\n 
+                            Mas su generación, ¿quién la contará?
+                            Porque fue quitada de la tierra su vida.\n 
+                        34. Respondiendo el eunuco, dijo a Felipe: Te ruego que me digas: ¿de quién dice el profeta esto; de sí mismo, o de algún otro?\n 
+                        35. Entonces Felipe, abriendo su boca, y comenzando desde esta escritura, le anunció el evangelio de Jesús.\n 
+                        36. Y yendo por el camino, llegaron a cierta agua, y dijo el eunuco: Aquí hay agua; ¿qué impide que yo sea bautizado?\n 
+                        37. Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios.\n 
+                        38. Y mandó parar el carro; y descendieron ambos al agua, Felipe y el eunuco, y le bautizó.`
         },
     ]
     },
