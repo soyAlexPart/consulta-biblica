@@ -1,6 +1,7 @@
 const bibliotecaBiblica = [
     
     {
+    // Este es el tema: 1
     nombre: "¿Por que hay que congregarnos?",
     versiculos: [
         {
@@ -11,6 +12,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    // Este es el tema: 2
     nombre: "Alabanza por los hechos poderosos de Dios",
     versiculos: [
         {
@@ -21,6 +23,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    // Este es el tema: 3
     nombre: "El que me sigue, no andará en tinieblas",
     versiculos: [
         {
@@ -37,6 +40,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    // Este es el tema: 4
     nombre: "La sana doctrina",
     versiculos: [
         {
@@ -51,7 +55,7 @@ const bibliotecaBiblica = [
     },
 
     {
-        //5
+    // Este es el tema: 5
     nombre: "El gran mandamiento",
     versiculos: [
         {
@@ -84,7 +88,7 @@ const bibliotecaBiblica = [
     },
 
     {
-        //6
+    // Este es el tema: 6
     nombre: "La justicia de Dios (Dios es justo)",
     versiculos: [
         {
@@ -124,7 +128,7 @@ const bibliotecaBiblica = [
     },
     
     {
-        //7
+    // Este es el tema: 7
     nombre: "Amarte a ti mismo",
     versiculos: [
         {
@@ -138,7 +142,7 @@ const bibliotecaBiblica = [
     },
 
     {
-        //8
+    // Este es el tema: 8
     nombre: "Lo tengo por basura",
     versiculos: [
         {
@@ -150,7 +154,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //9
+    // Este es el tema: 9
     nombre: "Descansar",
     versiculos: [
         {
@@ -177,7 +181,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //10
+    // Este es el tema: 10
     nombre: "Hablar conforme a la palabra",
     versiculos: [
         {
@@ -188,7 +192,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //11
+    // Este es el tema: 11
     nombre: "Ejercicio corporal",
     versiculos: [
         {
@@ -202,7 +206,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //12
+    // Este es el tema: 12
     nombre: "Permanecer en la palabra",
     versiculos: [
         {
@@ -223,7 +227,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //13
+    // Este es el tema: 13
     nombre: "Ponerle el sentido",
     versiculos: [
         {
@@ -252,7 +256,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //14
+    // Este es el tema: 14
     nombre: "Visita con Jesús (Tendrás tiempo)",
     versiculos: [
         {
@@ -268,7 +272,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //15
+    // Este es el tema: 15
     nombre: "Dios castiga",
     versiculos: [
         {
@@ -301,6 +305,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    // Este es el tema: 16
     nombre: "Arrepientanse o pereceran",
     versiculos: [
         {
@@ -318,6 +323,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    // Este es el tema: 17
     nombre: "Venganza",
     versiculos: [
         {
@@ -328,6 +334,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    // Este es el tema: 18
     nombre: "No hay profeta sin honra sino en su propia tierra",
     versiculos: [
         {
@@ -345,6 +352,7 @@ const bibliotecaBiblica = [
     },
 
     {
+    //Este es el tema: 19
     nombre: "El consejo de Dios",
     versiculos: [
         {
@@ -368,7 +376,146 @@ const bibliotecaBiblica = [
     },
 
     {
-    nombre: "",
+    //Este es el tema: 20
+    nombre: "A quien escoge Dios",
+    versiculos: [
+        {
+            ref: "1 Corintios 1:26-29",
+            texto: `26. Pues mirad, hermanos, vuestra vocación, que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos nobles;\n
+                    27. sino que lo necio del mundo escogió Dios, para avergonzar a los sabios; y lo débil del mundo escogió Dios, para avergonzar a lo fuerte;\n
+                    28. y lo vil del mundo y lo menospreciado escogió Dios, y lo que no es, para deshacer lo que es,\n
+                    29. a fin de que nadie se jacte en su presencia.`
+        },
+        {
+            ref: "Salmos 4:3",
+            texto: `3. Sabed, pues, que Jehová ha escogido al piadoso para sí;
+                    Jehová oirá cuando yo a él clamare.`
+        },
+        {
+            ref: "(Ejemplo) 1 Samuel 16:1-13",
+            texto: `<span class="titulo-seccion">Samuel unge a David</span>
+                    1. Dijo Jehová a Samuel: ¿Hasta cuándo llorarás a Saúl, habiéndolo yo desechado para que no reine sobre Israel? Llena tu cuerno de aceite, y ven, te enviaré a Isaí de Belén, porque de sus hijos me he provisto de rey.\n
+                    2. Y dijo Samuel: ¿Cómo iré? Si Saúl lo supiera, me mataría. Jehová respondió: Toma contigo una becerra de la vacada, y di: A ofrecer sacrificio a Jehová he venido.\n
+                    3. Y llama a Isaí al sacrificio, y yo te enseñaré lo que has de hacer; y me ungirás al que yo te dijere.\n
+                    4. Hizo, pues, Samuel como le dijo Jehová; y luego que él llegó a Belén, los ancianos de la ciudad salieron a recibirle con miedo, y dijeron: ¿Es pacífica tu venida?\n
+                    5. El respondió: Sí, vengo a ofrecer sacrificio a Jehová; santificaos, y venid conmigo al sacrificio. Y santificando él a Isaí y a sus hijos, los llamó al sacrificio.\n
+                    6. Y aconteció que cuando ellos vinieron, él vio a Eliab, y dijo: De cierto delante de Jehová está su ungido.\n
+                    7. Y Jehová respondió a Samuel: No mires a su parecer, ni a lo grande de su estatura, porque yo lo desecho; porque Jehová no mira lo que mira el hombre; pues el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón.\n
+                    8.Entonces llamó Isaí a Abinadab, y lo hizo pasar delante de Samuel, el cual dijo: Tampoco a éste ha escogido Jehová.\n
+                    9.Hizo luego pasar Isaí a Sama. Y él dijo: Tampoco a éste ha elegido Jehová.\n
+                    10.E hizo pasar Isaí siete hijos suyos delante de Samuel; pero Samuel dijo a Isaí: Jehová no ha elegido a éstos.\n
+                    11.Entonces dijo Samuel a Isaí: ¿Son éstos todos tus hijos? Y él respondió: Queda aún el menor, que apacienta las ovejas. Y dijo Samuel a Isaí: Envía por él, porque no nos sentaremos a la mesa hasta que él venga aquí.\n
+                    12.Envió, pues, por él, y le hizo entrar; y era rubio, hermoso de ojos, y de buen parecer. Entonces Jehová dijo: Levántate y úngelo, porque éste es.\n
+                    13.Y Samuel tomó el cuerno del aceite, y lo ungió en medio de sus hermanos; y desde aquel día en adelante el Espíritu de Jehová vino sobre David. Se levantó luego Samuel, y se volvió a Ramá.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 21
+    nombre: "David y Betsabe",
+    versiculos: [
+        {
+            ref: "2 Samuel 11",
+            texto: `<span class="titulo-seccion">David y Betsabé</span>
+                        1. Aconteció al año siguiente, en el tiempo que salen los reyes a la guerra, que David envió a Joab, y con él a sus siervos y a todo Israel, y destruyeron a los amonitas, y sitiaron a Rabá; pero David se quedó en Jerusalén.\n
+                        2. Y sucedió un día, al caer la tarde, que se levantó David de su lecho y se paseaba sobre el terrado de la casa real; y vio desde el terrado a una mujer que se estaba bañando, la cual era muy hermosa.\n
+                        3. Envió David a preguntar por aquella mujer, y le dijeron: Aquella es Betsabé hija de Eliam, mujer de Urías heteo.\n
+                        4. Y envió David mensajeros, y la tomó; y vino a él, y él durmió con ella. Luego ella se purificó de su inmundicia, y se volvió a su casa.\n
+                        5. Y concibió la mujer, y envió a hacerlo saber a David, diciendo: Estoy encinta.\n
+                        6. Entonces David envió a decir a Joab: Envíame a Urías heteo. Y Joab envió a Urías a David.\n
+                        7. Cuando Urías vino a él, David le preguntó por la salud de Joab, y por la salud del pueblo, y por el estado de la guerra.\n
+                        8. Después dijo David a Urías: Desciende a tu casa, y lava tus pies. Y saliendo Urías de la casa del rey, le fue enviado presente de la mesa real.\n
+                        9. Mas Urías durmió a la puerta de la casa del rey con todos los siervos de su señor, y no descendió a su casa.\n
+                        10. E hicieron saber esto a David, diciendo: Urías no ha descendido a su casa. Y dijo David a Urías: ¿No has venido de camino? ¿Por qué, pues, no descendiste a tu casa?\n
+                        11. Y Urías respondió a David: El arca e Israel y Judá están bajo tiendas, y mi señor Joab, y los siervos de mi señor, en el campo; ¿y había yo de entrar en mi casa para comer y beber, y a dormir con mi mujer? Por vida tuya, y por vida de tu alma, que yo no haré tal cosa.\n
+                        12. Y David dijo a Urías: Quédate aquí aún hoy, y mañana te despacharé. Y se quedó Urías en Jerusalén aquel día y el siguiente.\n
+                        13. Y David lo convidó a comer y a beber con él, hasta embriagarlo. Y él salió a la tarde a dormir en su cama con los siervos de su señor; mas no descendió a su casa.\n
+                        14. Venida la mañana, escribió David a Joab una carta, la cual envió por mano de Urías.\n
+                        15. Y escribió en la carta, diciendo: Poned a Urías al frente, en lo más recio de la batalla, y retiraos de él, para que sea herido y muera.\n
+                        16. Así fue que cuando Joab sitió la ciudad, puso a Urías en el lugar donde sabía que estaban los hombres más valientes.\n
+                        17. Y saliendo luego los de la ciudad, pelearon contra Joab, y cayeron algunos del ejército de los siervos de David; y murió también Urías heteo.\n
+                        18. Entonces envió Joab e hizo saber a David todos los asuntos de la guerra.\n
+                        19. Y mandó al mensajero, diciendo: Cuando acabes de contar al rey todos los asuntos de la guerra,\n
+                        20. si el rey comenzare a enojarse, y te dijere: ¿Por qué os acercasteis demasiado a la ciudad para combatir? ¿No sabíais lo que suelen arrojar desde el muro?\n
+                        21. ¿Quién hirió a Abimelec hijo de Jerobaal? ¿No echó una mujer del muro un pedazo de una rueda de molino, y murió en Tebes? ¿Por qué os acercasteis tanto al muro? Entonces tú le dirás: También tu siervo Urías heteo es muerto.\n
+                        22. Fue el mensajero, y llegando, contó a David todo aquello a que Joab le había enviado.\n
+                        23. Y dijo el mensajero a David: Prevalecieron contra nosotros los hombres que salieron contra nosotros al campo, bien que nosotros les hicimos retroceder hasta la entrada de la puerta;\n
+                        24. pero los flecheros tiraron contra tus siervos desde el muro, y murieron algunos de los siervos del rey; y murió también tu siervo Urías heteo.\n
+                        25. Y David dijo al mensajero: Así dirás a Joab: No tengas pesar por esto, porque la espada consume, ora a uno, ora a otro; refuerza tu ataque contra la ciudad, hasta que la rindas. Y tú aliéntale.\n
+                        26. Oyendo la mujer de Urías que su marido Urías era muerto, hizo duelo por su marido.\n
+                        27. Y pasado el luto, envió David y la trajo a su casa; y fue ella su mujer, y le dio a luz un hijo. Mas esto que David había hecho, fue desagradable ante los ojos de Jehová.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 22
+    nombre: "Dios perdona pero castiga",
+    versiculos: [
+        {
+            ref: "2 Samuel 12",
+            texto: `<span class="titulo-seccion">Natán amonesta a David</span>
+                    1. Jehová envió a Natán a David; y viniendo a él, le dijo: Había dos hombres en una ciudad, el uno rico, y el otro pobre.\n
+                    2. El rico tenía numerosas ovejas y vacas;\n
+                    3. pero el pobre no tenía más que una sola corderita, que él había comprado y criado, y que había crecido con él y con sus hijos juntamente, comiendo de su bocado y bebiendo de su vaso, y durmiendo en su seno; y la tenía como a una hija.\n
+                    4. Y vino uno de camino al hombre rico; y éste no quiso tomar de sus ovejas y de sus vacas, para guisar para el caminante que había venido a él, sino que tomó la oveja de aquel hombre pobre, y la preparó para aquel que había venido a él.\n
+                    5. Entonces se encendió el furor de David en gran manera contra aquel hombre, y dijo a Natán: Vive Jehová, que el que tal hizo es digno de muerte.\n
+                    6. Y debe pagar la cordera con cuatro tantos, porque hizo tal cosa, y no tuvo misericordia.\n
+                    7. Entonces dijo Natán a David: Tú eres aquel hombre. Así ha dicho Jehová, Dios de Israel: Yo te ungí por rey sobre Israel, y te libré de la mano de Saúl,\n
+                    8. y te di la casa de tu señor, y las mujeres de tu señor en tu seno; además te di la casa de Israel y de Judá; y si esto fuera poco, te habría añadido mucho más.\n
+                    9. ¿Por qué, pues, tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Urías heteo heriste a espada, y tomaste por mujer a su mujer, y a él lo mataste con la espada de los hijos de Amón.\n
+                    10. Por lo cual ahora no se apartará jamás de tu casa la espada, por cuanto me menospreciaste, y tomaste la mujer de Urías heteo para que fuese tu mujer.\n
+                    11. Así ha dicho Jehová: He aquí yo haré levantar el mal sobre ti de tu misma casa, y tomaré tus mujeres delante de tus ojos, y las daré a tu prójimo, el cual yacerá con tus mujeres a la vista del sol.\n
+                    12. Porque tú lo hiciste en secreto; mas yo haré esto delante de todo Israel y a pleno sol.\n
+                    13. Entonces dijo David a Natán: Pequé contra Jehová. Y Natán dijo a David: También Jehová ha remitido tu pecado; no morirás.\n
+                    14. Mas por cuanto con este asunto hiciste blasfemar a los enemigos de Jehová, el hijo que te ha nacido ciertamente morirá.\n
+                    15. Y Natán se volvió a su casa. Y Jehová hirió al niño que la mujer de Urías había dado a David, y enfermó gravemente.\n
+                    16. Entonces David rogó a Dios por el niño; y ayunó David, y entró, y pasó la noche acostado en tierra.\n
+                    17. Y se levantaron los ancianos de su casa, y fueron a él para hacerlo levantar de la tierra; mas él no quiso, ni comió con ellos pan.\n
+                    18. Y al séptimo día murió el niño; y temían los siervos de David hacerle saber que el niño había muerto, diciendo entre sí: Cuando el niño aún vivía, le hablábamos, y no quería oír nuestra voz; ¿cuánto más se afligirá si le decimos que el niño ha muerto?\n
+                    19. Mas David, viendo a sus siervos hablar entre sí, entendió que el niño había muerto; por lo que dijo David a sus siervos: ¿Ha muerto el niño? Y ellos respondieron: Ha muerto.\n
+                    20. Entonces David se levantó de la tierra, y se lavó y se ungió, y cambió sus ropas, y entró a la casa de Jehová, y adoró. Después vino a su casa, y pidió, y le pusieron pan, y comió.\n
+                    21. Y le dijeron sus siervos: ¿Qué es esto que has hecho? Por el niño, viviendo aún, ayunabas y llorabas; y muerto él, te levantaste y comiste pan.\n
+                    22. Y él respondió: Viviendo aún el niño, yo ayunaba y lloraba, diciendo: ¿Quién sabe si Dios tendrá compasión de mí, y vivirá el niño?\n
+                    23. Mas ahora que ha muerto, ¿para qué he de ayunar? ¿Podré yo hacerle volver? Yo voy a él, mas él no volverá a mí.\n
+                    24. Y consoló David a Betsabé su mujer, y llegándose a ella durmió con ella; y ella le dio a luz un hijo, y llamó su nombre Salomón, al cual amó Jehová,\n
+                    25. y envió un mensaje por medio de Natán profeta; así llamó su nombre Jedidías, a causa de Jehová.\n
+                <span class="titulo-seccion">David captura Rabá</span>
+                    26. Joab peleaba contra Rabá de los hijos de Amón, y tomó la ciudad real.\n
+                    27. Entonces envió Joab mensajeros a David, diciendo: Yo he puesto sitio a Rabá, y he tomado la ciudad de las aguas.\n
+                    28. Reúne, pues, ahora al pueblo que queda, y acampa contra la ciudad y tómala, no sea que tome yo la ciudad y sea llamada de mi nombre.\n
+                    29. Y juntando David a todo el pueblo, fue contra Rabá, y combatió contra ella, y la tomó.\n
+                    30. Y quitó la corona de la cabeza de su rey, la cual pesaba un talento de oro, y tenía piedras preciosas; y fue puesta sobre la cabeza de David. Y sacó muy grande botín de la ciudad.\n
+                    31. Sacó además a la gente que estaba en ella, y los puso a trabajar con sierras, con trillos de hierro y hachas de hierro, y además los hizo trabajar en los hornos de ladrillos; y lo mismo hizo a todas las ciudades de los hijos de Amón. Y volvió David con todo el pueblo a Jerusalén.`
+        },
+        {
+            ref: "Salmos 39:11",
+            texto: `11. Con castigos por el pecado corriges al hombre,
+                    Y deshaces como polilla lo más estimado de él;
+                    Ciertamente vanidad es todo hombre.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 23
+    nombre: "El paralitico de Betesda",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``
+        },
+        {
+            ref: "",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 24
+    nombre: "Incredulidad",
     versiculos: [
         {
             ref: "",
@@ -383,6 +530,7 @@ const bibliotecaBiblica = [
 
     /*
     {
+    //Este es el tema:
     nombre: "",
     versiculos: [
         {
@@ -433,13 +581,12 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Juan 13:21-26",
-            texto: `21. Habiendo dicho Jesús esto, se conmovió en espíritu, y declaró y dijo:
-            <span class="letra-roja">De cierto, de cierto os digo, que uno de vosotros me va a entregar.</span>\n
+            texto: `21. Habiendo dicho Jesús esto, se conmovió en espíritu, y declaró y dijo: <span class="letra-roja">De cierto, de cierto os digo, que uno de vosotros me va a entregar.</span>\n
                     22. Entonces los discípulos se miraban unos a otros, dudando de quién hablaba.\n
                     23. Y uno de sus discípulos, al cual Jesús amaba, estaba recostado al lado de Jesús.\n
                     24. A éste, pues, hizo señas Simón Pedro, para que preguntase quién era aquel de quien hablaba.\n
-                    25. El entonces, recostado cerca del pecho de Jesús, le dijo: Señor, ¿quién es?
-                    26. Respondió Jesús: <span class="letra-roja">A quien yo diere el pan mojado, aquél es.</span>\n Y mojando el pan, lo dio a Judas Iscariote hijo de Simón.`
+                    25. El entonces, recostado cerca del pecho de Jesús, le dijo: Señor, ¿quién es?\n
+                    26. Respondió Jesús: <span class="letra-roja">A quien yo diere el pan mojado, aquél es.</span> Y mojando el pan, lo dio a Judas Iscariote hijo de Simón.`
         },
         { 
             ref: "Juan 21:20-24",
@@ -775,5 +922,43 @@ const bibliotecaBiblica = [
         },
     ]
 },
-
+    /*
+    {
+    //Este es el tema:
+    nombre: "Transfiguración",
+    versiculos: [
+        {
+            ref: "Mateo 17:1-13",
+            texto: `<div class="titulo-seccion">La transfiguración</div>
+                        1. Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan su hermano, y los llevó aparte a un monte alto;\n
+                        2. y se transfiguró delante de ellos, y resplandeció su rostro como el sol, y sus vestidos se hicieron blancos como la luz.\n
+                        3. Y he aquí les aparecieron Moisés y Elías, hablando con él.\n
+                        4. Entonces Pedro dijo a Jesús: Señor, bueno es para nosotros que estemos aquí; si quieres, hagamos aquí tres enramadas: una para ti, otra para Moisés, y otra para Elías.\n
+                        5. Mientras él aún hablaba, una nube de luz los cubrió; y he aquí una voz desde la nube, que decía: Este es mi Hijo amado, en quien tengo complacencia; a él oíd.\n
+                        6. Al oír esto los discípulos, se postraron sobre sus rostros, y tuvieron gran temor.\n
+                        7. Entonces Jesús se acercó y los tocó, y dijo: <div class="letra-roja">Levantaos, y no temáis.</div>
+                        8. Y alzando ellos los ojos, a nadie vieron sino a Jesús solo.\n
+                        9. Cuando descendieron del monte, Jesús les mandó, diciendo: <div class="letra-roja">No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos.</div>
+                        10. Entonces sus discípulos le preguntaron, diciendo: ¿Por qué, pues, dicen los escribas que es necesario que Elías venga primero?\n
+                        11. Respondiendo Jesús, les dijo: <div class="letra-roja">A la verdad, Elías viene primero, y restaurará todas las cosas.\n
+                        12. Mas os digo que Elías ya vino, y no le conocieron, sino que hicieron con él todo lo que quisieron; así también el Hijo del Hombre padecerá de ellos.</div>
+                        13. Entonces los discípulos comprendieron que les había hablado de Juan el Bautista.\n`
+        },
+        {
+            ref: "Lucas 9:28-36",
+            texto: `<div class="titulo-seccion">La transfiguración</div>
+                        28. Aconteció como ocho días después de estas palabras, que tomó a Pedro, a Juan y a Jacobo, y subió al monte a orar.\n
+                        29. Y entre tanto que oraba, la apariencia de su rostro se hizo otra, y su vestido blanco y resplandeciente.\n
+                        30. Y he aquí dos varones que hablaban con él, los cuales eran Moisés y Elías;\n
+                        31. quienes aparecieron rodeados de gloria, y hablaban de su partida, que iba Jesús a cumplir en Jerusalén.\n
+                        32. Y Pedro y los que estaban con él estaban rendidos de sueño; mas permaneciendo despiertos, vieron la gloria de Jesús, y a los dos varones que estaban con él.\n
+                        33. Y sucedió que apartándose ellos de él, Pedro dijo a Jesús: Maestro, bueno es para nosotros que estemos aquí; y hagamos tres enramadas, una para ti, una para Moisés, y una para Elías; no sabiendo lo que decía.\n
+                        34. Mientras él decía esto, vino una nube que los cubrió; y tuvieron temor al entrar en la nube.\n
+                        35. Y vino una voz desde la nube, que decía: Este es mi Hijo amado; a él oíd.\n
+                        36. Y cuando cesó la voz, Jesús fue hallado solo; y ellos callaron, y por aquellos días no dijeron nada a nadie de lo que habían visto.
+                    </div>`
+        },
+    ]
+    },
+    */
 ];
