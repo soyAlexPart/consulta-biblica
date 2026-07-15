@@ -104,6 +104,12 @@ body {
     color: #222;
 }
 
+.resaltado{
+    background: yellow;
+    padding: 2px 3px;
+    border-radius: 3px;
+}
+
 
 /* Buscador centrado y limpio */
 .search-container { position: relative; margin-bottom: 20px; }

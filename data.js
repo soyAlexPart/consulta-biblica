@@ -725,7 +725,7 @@ const bibliotecaBiblica = [
     },
 
     {
-    //Este es el tema: 31
+    //Este es el tema: 31, 43
     nombre: "La ofrenda especial",
     versiculos: [
         {
@@ -733,14 +733,16 @@ const bibliotecaBiblica = [
             tipo: "titulo",
         },
         {
-            ref: "Romanos 15:22-27",
+            ref: "Romanos 15:22-29",
             texto: `<span class="titulo-seccion">Pablo se propone ir a Roma</span>
                         22. Por esta causa me he visto impedido muchas veces de ir a vosotros.\n
                         23. Pero ahora, no teniendo más campo en estas regiones, y deseando desde hace muchos años ir a vosotros,\n
                         24. cuando vaya a España, iré a vosotros; porque espero veros al pasar, y ser encaminado allá por vosotros, una vez que haya gozado con vosotros.\n
                         25. Mas ahora voy a Jerusalén para ministrar a los santos.\n
                         26. Porque Macedonia y Acaya tuvieron a bien hacer una ofrenda para los pobres que hay entre los santos que están en Jerusalén.\n
-                        27. Pues les pareció bueno, y son deudores a ellos; porque si los gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos ministrarles de los materiales.`
+                        27. Pues les pareció bueno, y son deudores a ellos; porque si los gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos ministrarles de los materiales.\n
+                        28. Así que, cuando haya concluido esto, y les haya entregado este fruto, pasaré entre vosotros rumbo a España.\n
+                        29. Y sé que cuando vaya a vosotros, llegaré con abundancia de la bendición del evangelio de Cristo.`
         },
         {
             ref: "1 Corintios 16:1-4",
@@ -787,6 +789,14 @@ const bibliotecaBiblica = [
                         18. Pero todo lo he recibido, y tengo abundancia; estoy lleno, habiendo recibido de Epafrodito lo que enviasteis; olor fragante, sacrificio acepto, agradable a Dios.\n
                         19. Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.\n
                         20. Al Dios y Padre nuestro sea gloria por los siglos de los siglos. Amén.`
+        },
+        {
+            ref: "Asignarion a Tito y a otro hermano",
+            tipo: "titulo",
+        },
+        {
+            ref: "1 Corintios 12:26",
+            texto: "    26. De manera que si un miembro padece, todos los miembros se duelen con él, y si un miembro recibe honra, todos los miembros con él se gozan.",
         },
     ]
     },
@@ -1053,6 +1063,179 @@ const bibliotecaBiblica = [
             ref: "Mateo 13:44",
             texto: `<span class="titulo-seccion">El tesoro escondido</span>
                     <span class="letra-roja">44. Además, el reino de los cielos es semejante a un tesoro escondido en un campo, el cual un hombre halla, y lo esconde de nuevo; y gozoso por ello va y vende todo lo que tiene, y compra aquel campo.</span>`
+        },
+    ]
+    },
+
+    //El tema 43: La ofrenda especial
+
+    {
+    //Este es el tema: 44
+    nombre: "Padre nuestro",
+    versiculos: [
+        {
+            ref: "Mateo 6:5-13",
+            texto: `<span class="titulo-seccion">Jesús y la oración</span>
+                    <span class="letra-roja">
+                        5. Y cuando ores, no seas como los hipócritas; porque ellos aman el orar en pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres; de cierto os digo que ya tienen su recompensa.\n
+                        6. Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.\n
+                        7. Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos.\n
+                        8. No os hagáis, pues, semejantes a ellos; porque vuestro Padre sabe de qué cosas tenéis necesidad, antes que vosotros le pidáis.\n
+                        9. Vosotros, pues, oraréis así: <span class="resaltado">Padre nuestro que estás en los cielos, santificado sea tu nombre.\n
+                        10. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra.\n
+                        11. El pan nuestro de cada día, dánoslo hoy.\n
+                        12. Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores.\n
+                        13. Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén.</span>
+                    </span>`,
+        },
+        {
+            ref: "Lucas 11:1-4",
+            texto: `<span class="titulo-seccion">Jesús y la oración</span>
+                    <span class="letra-roja">
+                        1. Aconteció que estaba Jesús orando en un lugar, y cuando terminó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos.\n
+                        2. Y les dijo: Cuando oréis, decid: <span class="resaltado">Padre nuestro que estás en los cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra.\n
+                        3. El pan nuestro de cada día, dánoslo hoy.\n
+                        4. Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del mal.</span>
+                    </span>`
+        },
+        {
+            ref: "2 Corintios 12:2",
+            texto: `    2. Conozco a un hombre en Cristo, que hace catorce años (si en el cuerpo, no lo sé; si fuera del cuerpo, no lo sé; Dios lo sabe) fue arrebatado hasta el tercer cielo.`
+        },
+        {
+            ref: "Proverbios 25:11",
+            texto: `    11. Manzana de oro con figuras de plata
+                            Es la palabra dicha como conviene.`
+        },
+        {
+            ref: "2 Cronicas 20:6",
+            texto: `    6. Y dijo: Jehová Dios de nuestros padres, ¿no eres tú Dios en los cielos, y tienes dominio sobre todos los reinos de las naciones? ¿no está en tu mano tal fuerza y poder, que no hay quien te resista?`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 45
+    nombre: "En todo trabajo hay fruto",
+    versiculos: [
+        {
+            ref: "Proverbios 4:23",
+            texto: ``,
+        },
+        {
+            ref: "Proverbios 28:25",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 46
+    nombre: "Honra a tus padres",
+    versiculos: [
+        {
+            ref: "Efesios 6:1-3",
+            texto: ``,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 47
+    nombre: "Padre Espiritual",
+    versiculos: [
+        {
+            ref: "1 Corintios 4:15",
+            texto: ``,
+        },
+        {
+            ref: "Hechos 5:34",
+            texto: ``
+        },
+        {
+            ref: "Hechos 22:3",
+            texto: ``
+        },
+        
+    ]
+    },
+
+    {
+    //Este es el tema: 48
+    nombre: "Vacio en el corazón",
+    versiculos: [
+        {
+            ref: "Colosenses 2:10",
+            texto: ``,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 49
+    nombre: "Navidad",
+    versiculos: [
+        {
+            ref: "Mateo 2",
+            texto: ``,
+        },
+        {
+            ref: "Lucas 2:1-20",
+            texto: ``
+        },
+        {
+            ref: "*Miqueas 5:1-2",
+            texto: ``
+        },
+        {
+            ref: "Apocalipsis 5:8",
+            texto: ``
+        },
+        {
+            ref: "Deuteronomio 18:11-12",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 50
+    nombre: "Lider Espiritual",
+    versiculos: [
+        {
+            ref: "Deuteronomio 6:4-9",
+            texto: ``,
+        },
+        {
+            ref: "1 Corintios 11:3",
+            texto: ``
+        },
+        {
+            ref: "*Proverbios 23:24-25",
+            texto: ``
+        },
+        {
+            ref: "Proverbios 22:6",
+            texto: ``
+        },
+        {
+            ref: "Deuteronomio 11:18-19",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 51
+    nombre: "Dejarnos usar por Dios",
+    versiculos: [
+        {
+            ref: "Marcos 4:18-19",
+            texto: ``,
+        },
+        {
+            ref: "Mateo 6:33",
+            texto: ``
         },
     ]
     },
