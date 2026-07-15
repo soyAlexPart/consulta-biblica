@@ -878,7 +878,7 @@ const bibliotecaBiblica = [
 
     {
     //Este es el tema: 35
-    nombre: "Alma",
+    nombre: "*** Alma",
     versiculos: [
         {
             ref: "",
@@ -1120,11 +1120,13 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Proverbios 4:23",
-            texto: ``,
+            texto: `    23. Sobre toda cosa guardada, guarda tu corazón;
+                            Porque de él mana la vida.`,
         },
         {
             ref: "Proverbios 28:25",
-            texto: ``
+            texto: `    25. El altivo de ánimo suscita contiendas;
+                            Mas el que confía en Jehová prosperará.`
         },
     ]
     },
@@ -1135,7 +1137,9 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Efesios 6:1-3",
-            texto: ``,
+            texto: `    1. Hijos, obedeced en el Señor a vuestros padres, porque esto es justo.\n
+                        2. Honra a tu padre y a tu madre, que es el primer mandamiento con promesa;\n
+                        3. para que te vaya bien, y seas de larga vida sobre la tierra.`,
         },
     ]
     },
