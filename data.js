@@ -808,16 +808,216 @@ const bibliotecaBiblica = [
                     8. y al último de todos, como a un abortivo, me apareció a mí.`,
         },
         {
-            ref: "Proximamente ...",
-            texto: `Proximamente ...`
+            ref: "Galatas 1:6-8",
+            texto: `<span class="titulo-seccion">No hay otro evangelio</span>
+                        6. Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente.\n
+                        7. No que haya otro, sino que hay algunos que os perturban y quieren pervertir el evangelio de Cristo.\n
+                        8. Mas si aun nosotros, o un ángel del cielo, os anunciare otro evangelio diferente del que os hemos anunciado, sea anatema.`
         },
         {
-            ref: "Proximamente ...",
-            texto: `Proximamente ...`
+            ref: "Mateo 24:12-14",
+            texto: `<span class="letra-roja">
+                        12. y por haberse multiplicado la maldad, el amor de muchos se enfriará.\n
+                        13. Mas el que persevere hasta el fin, éste será salvo.\n
+                        14. Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin.
+                    </span>`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 33
+    nombre: "Dios hizo al hombre recto",
+    versiculos: [
+        {
+            ref: "Eclesiastés 7:20-29",
+            texto: `    20. Ciertamente no hay hombre justo en la tierra, que haga el bien y nunca peque.\n
+                        21. Tampoco apliques tu corazón a todas las cosas que se hablan, para que no oigas a tu siervo cuando dice mal de ti;\n
+                        22. porque tu corazón sabe que tú también dijiste mal de otros muchas veces.\n
+                        23. Todas estas cosas probé con sabiduría, diciendo: Seré sabio; pero la sabiduría se alejó de mí.\n
+                        24. Lejos está lo que fue; y lo muy profundo, ¿quién lo hallará?\n
+                        25. Me volví y fijé mi corazón para saber y examinar e inquirir la sabiduría y la razón, y para conocer la maldad de la insensatez y el desvarío del error.\n
+                        26. Y he hallado más amarga que la muerte a la mujer cuyo corazón es lazos y redes, y sus manos ligaduras. El que agrada a Dios escapará de ella; mas el pecador quedará en ella preso.\n
+                        27. He aquí que esto he hallado, dice el Predicador, pesando las cosas una por una para hallar la razón;\n
+                        28. lo que aún busca mi alma, y no lo encuentra: un hombre entre mil he hallado, pero mujer entre todas éstas nunca hallé.\n
+                        29. He aquí, solamente esto he hallado: que Dios hizo al hombre recto, pero ellos buscaron muchas perversiones.`,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 34
+    nombre: "Desintoxica tu mente",
+    versiculos: [
+        {
+            ref: "Isaias 53:3-4",
+            texto: `    3. Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto; y como que escondimos de él el rostro, fue menospreciado, y no lo estimamos.\n
+                        4. Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido.`,
         },
         {
-            ref: "Proximamente ...",
-            texto: `Proximamente ...`
+            ref: "Filipenses 4:13",
+            texto: `    13. Todo lo puedo en Cristo que me fortalece.`
+        },
+        {
+            ref: "Proverbios 4:23",
+            texto: `    23. Sobre toda cosa guardada, guarda tu corazón;
+                            Porque de él mana la vida.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 35
+    nombre: "Alma",
+    versiculos: [
+        {
+            ref: "",
+            texto: ``,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 36
+    nombre: "La palabra no está en los mares lejos de ti",
+    versiculos: [
+        {
+            ref: "Deuteronomio 30:11-14",
+            texto: `    11. Porque este mandamiento que yo te ordeno hoy no es demasiado difícil para ti, ni está lejos.\n
+                        12. No está en el cielo, para que digas: ¿Quién subirá por nosotros al cielo, y nos lo traerá y nos lo hará oír para que lo cumplamos?\n
+                        13. Ni está al otro lado del mar, para que digas: ¿Quién pasará por nosotros el mar, para que nos lo traiga y nos lo haga oír, a fin de que lo cumplamos?\n
+                        14. Porque muy cerca de ti está la palabra, en tu boca y en tu corazón, para que la cumplas.`,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 37
+    nombre: "Fe",
+    versiculos: [
+        {
+            ref: "Hebreos 11:1",
+            texto: `<span class="titulo-seccion">La fe</span>
+                        1. Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.`,
+        },
+        {
+            ref: "Romanos 12:3",
+            texto: `    3. Digo, pues, por la gracia que me es dada, a cada cual que está entre vosotros, que no tenga más alto concepto de sí que el que debe tener, sino que piense de sí con cordura, conforme a la medida de fe que Dios repartió a cada uno.`
+        },
+        {
+            ref: "Romanos 10:17",
+            texto: `    17. Así que la fe es por el oír, y el oír, por la palabra de Dios.`
+        },
+        {
+            ref: "Efesios 4:23",
+            texto: `    23. y renovaos en el espíritu de vuestra mente,`
+        },
+        {
+            ref: "Romanos 11:20",
+            texto: `    20. Bien; por su incredulidad fueron desgajadas, pero tú por la fe estás en pie. No te ensoberbezcas, sino teme.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 38
+    nombre: "Sueños",
+    versiculos: [
+        {
+            ref: "Salmos 37:4-5",
+            texto: `    4. Deléitate asimismo en Jehová,
+                            Y él te concederá las peticiones de tu corazón.\n
+                        5. Encomienda a Jehová tu camino,
+                            Y confía en él; y él hará.`,
+        },
+        {
+            ref: "Hebreos 6:12",
+            texto: `    12. a fin de que no os hagáis perezosos, sino imitadores de aquellos que por la fe y la paciencia heredan las promesas.`
+        },
+        {
+            ref: "Proverbios 14:23",
+            texto: `    23. En toda labor hay fruto;
+                            Mas las vanas palabras de los labios empobrecen.`
+        },
+        {
+            ref: "Juan 11:39-40",
+            texto: `    39. Dijo Jesús: <span class="letra-roja">Quitad la piedra. </span> Marta, la hermana del que había muerto, le dijo: Señor, hiede ya, porque es de cuatro días.\n
+                        40. Jesús le dijo: <span class="letra-roja">¿No te he dicho que si crees, verás la gloria de Dios?</span>`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 39
+    nombre: "¿Por que no te rinde el dinero?",
+    versiculos: [
+        {
+            ref: "Hageo 1:1-11",
+            texto: `<span class="titulo-seccion">Exhortación a edificar el templo</span>
+                        1. En el año segundo del rey Darío, en el mes sexto, en el primer día del mes, vino palabra de Jehová por medio del profeta Hageo a Zorobabel hijo de Salatiel, gobernador de Judá, y a Josué hijo de Josadac, sumo sacerdote, diciendo:\n
+                        2. Así ha hablado Jehová de los ejércitos, diciendo: Este pueblo dice: No ha llegado aún el tiempo, el tiempo de que la casa de Jehová sea reedificada.\n
+                        3. Entonces vino palabra de Jehová por medio del profeta Hageo, diciendo:\n
+                        4. ¿Es para vosotros tiempo, para vosotros, de habitar en vuestras casas artesonadas, y esta casa está desierta?\n
+                        5. Pues así ha dicho Jehová de los ejércitos: Meditad bien sobre vuestros caminos.\n
+                        6. Sembráis mucho, y recogéis poco; coméis, y no os saciáis; bebéis, y no quedáis satisfechos; os vestís, y no os calentáis; y el que trabaja a jornal recibe su jornal en saco roto.\n
+                        7. Así ha dicho Jehová de los ejércitos: Meditad sobre vuestros caminos.\n
+                        8. Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré glorificado, ha dicho Jehová.\n
+                        9. Buscáis mucho, y halláis poco; y encerráis en casa, y yo lo disiparé en un soplo. ¿Por qué? dice Jehová de los ejércitos. Por cuanto mi casa está desierta, y cada uno de vosotros corre a su propia casa.\n
+                        10. Por eso se detuvo de los cielos sobre vosotros la lluvia, y la tierra detuvo sus frutos.\n
+                        11. Y llamé la sequía sobre esta tierra, y sobre los montes, sobre el trigo, sobre el vino, sobre el aceite, sobre todo lo que la tierra produce, sobre los hombres y sobre las bestias, y sobre todo trabajo de manos.`,
+        },
+        {
+            ref: "Isaias 59:2",
+            texto: `    2. pero vuestras iniquidades han hecho división entre vosotros y vuestro Dios, y vuestros pecados han hecho ocultar de vosotros su rostro para no oír.`
+        },
+        {
+            ref: "Malaquias 3:6-12",
+            texto: `<span class="titulo-seccion">El pago de los diezmos</span>
+                        6. Porque yo Jehová no cambio; por esto, hijos de Jacob, no habéis sido consumidos.\n
+                        7. Desde los días de vuestros padres os habéis apartado de mis leyes, y no las guardasteis. Volveos a mí, y yo me volveré a vosotros, ha dicho Jehová de los ejércitos. Mas dijisteis: ¿En qué hemos de volvernos?\n
+                        8. ¿Robará el hombre a Dios? Pues vosotros me habéis robado. Y dijisteis: ¿En qué te hemos robado? En vuestros diezmos y ofrendas.\n
+                        9. Malditos sois con maldición, porque vosotros, la nación toda, me habéis robado.\n
+                        10. Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde.\n
+                        11. Reprenderé también por vosotros al devorador, y no os destruirá el fruto de la tierra, ni vuestra vid en el campo será estéril, dice Jehová de los ejércitos.\n
+                        12. Y todas las naciones os dirán bienaventurados; porque seréis tierra deseable, dice Jehová de los ejércitos.`
+        },
+        {
+            ref: "Proverbios 22:29",
+            texto: `    29. ¿Has visto hombre solícito en su trabajo?
+                            Delante de los reyes estará;
+                            No estará delante de los de baja condición.`,
+        },
+        {
+            ref: "Proverbios 24:33-34",
+            texto: `    33. Un poco de sueño, cabeceando otro poco,
+                            Poniendo mano sobre mano otro poco para dormir;\n
+                        34. Así vendrá como caminante tu necesidad,
+                            Y tu pobreza como hombre armado.`,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 40
+    nombre: "Bendiciones a la obediencia",
+    versiculos: [
+        {
+            ref: "Deuteronomio 28:1-14",
+            texto: `<span class="titulo-seccion">Bendiciones de la obediencia</span>
+                        1. Acontecerá que si oyeres atentamente la voz de Jehová tu Dios, para guardar y poner por obra todos sus mandamientos que yo te prescribo hoy, también Jehová tu Dios te exaltará sobre todas las naciones de la tierra.\n
+                        2. Y vendrán sobre ti todas estas bendiciones, y te alcanzarán, si oyeres la voz de Jehová tu Dios.\n
+                        3. Bendito serás tú en la ciudad, y bendito tú en el campo.\n
+                        4. Bendito el fruto de tu vientre, el fruto de tu tierra, el fruto de tus bestias, la cría de tus vacas y los rebaños de tus ovejas.\n
+                        5. Benditas serán tu canasta y tu artesa de amasar.\n
+                        6. Bendito serás en tu entrar, y bendito en tu salir.\n
+                        7. Jehová derrotará a tus enemigos que se levantaren contra ti; por un camino saldrán contra ti, y por siete caminos huirán de delante de ti.\n
+                        8. Jehová te enviará su bendición sobre tus graneros, y sobre todo aquello en que pusieres tu mano; y te bendecirá en la tierra que Jehová tu Dios te da.\n
+                        9. Te confirmará Jehová por pueblo santo suyo, como te lo ha jurado, cuando guardares los mandamientos de Jehová tu Dios, y anduvieres en sus caminos.\n
+                        10. Y verán todos los pueblos de la tierra que el nombre de Jehová es invocado sobre ti, y te temerán.\n
+                        11. Y te hará Jehová sobreabundar en bienes, en el fruto de tu vientre, en el fruto de tu bestia, y en el fruto de tu tierra, en el país que Jehová juró a tus padres que te había de dar.\n
+                        12. Te abrirá Jehová su buen tesoro, el cielo, para enviar la lluvia a tu tierra en su tiempo, y para bendecir toda obra de tus manos. Y prestarás a muchas naciones, y tú no pedirás prestado.\n
+                        13. Te pondrá Jehová por cabeza, y no por cola; y estarás encima solamente, y no estarás debajo, si obedecieres los mandamientos de Jehová tu Dios, que yo te ordeno hoy, para que los guardes y cumplas,\n
+                        14. y si no te apartares de todas las palabras que yo te mando hoy, ni a diestra ni a siniestra, para ir tras dioses ajenos y servirles.`,
         },
     ]
     },
