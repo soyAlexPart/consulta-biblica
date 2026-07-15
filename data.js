@@ -1022,6 +1022,41 @@ const bibliotecaBiblica = [
     ]
     },
 
+    {
+    //Este es el tema: 41
+    nombre: "Aborrecibles",
+    versiculos: [
+        {
+            ref: "Tito 3:3-8",
+            texto: `    3. Porque nosotros también éramos en otro tiempo insensatos, rebeldes, extraviados, esclavos de concupiscencias y deleites diversos, viviendo en malicia y envidia, aborrecibles, y aborreciéndonos unos a otros.\n
+                        4. Pero cuando se manifestó la bondad de Dios nuestro Salvador, y su amor para con los hombres,\n
+                        5. nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo,\n
+                        6. el cual derramó en nosotros abundantemente por Jesucristo nuestro Salvador,\n
+                        7. para que justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna.\n
+                        8. Palabra fiel es esta, y en estas cosas quiero que insistas con firmeza, para que los que creen en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres.`,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 42
+    nombre: "El tesoro escondido",
+    versiculos: [
+        {
+            ref: "2 Corintios 4:5-7",
+            texto: `    5. Porque no nos predicamos a nosotros mismos, sino a Jesucristo como Señor, y a nosotros como vuestros siervos por amor de Jesús.\n
+                        6. Porque Dios, que mandó que de las tinieblas resplandeciese la luz, es el que resplandeció en nuestros corazones, para iluminación del conocimiento de la gloria de Dios en la faz de Jesucristo.\n
+                    <span class="titulo-seccion">Viviendo por la fe</span>
+                        7. Pero tenemos este tesoro en vasos de barro, para que la excelencia del poder sea de Dios, y no de nosotros,`,
+        },
+        {
+            ref: "Mateo 13:44",
+            texto: `<span class="titulo-seccion">El tesoro escondido</span>
+                    <span class="letra-roja">44. Además, el reino de los cielos es semejante a un tesoro escondido en un campo, el cual un hombre halla, y lo esconde de nuevo; y gozoso por ello va y vende todo lo que tiene, y compra aquel campo.</span>`
+        },
+    ]
+    },
+
     /*
     {
     //Este es el tema: 
