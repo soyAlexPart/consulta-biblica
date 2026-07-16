@@ -1305,9 +1305,171 @@ const bibliotecaBiblica = [
         },
         {
             ref: "Mateo 6:33",
-            texto: `<span class="letra-roja">    
+            texto: `<span class="letra-roja">
                         33. Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.
                     </span>`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 52
+    nombre: "Pescadores de hombres",
+    versiculos: [
+        {
+            ref: "Mateo 4:17-22",
+            texto: `    17. Desde entonces comenzó Jesús a predicar, y a decir: <span class="letra-roja">Arrepentíos, porque el reino de los cielos se ha acercado.</span>\n
+                        18. Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores.\n
+                        19. Y les dijo: <span class="letra-roja">Venid en pos de mí, y os haré pescadores de hombres.</span>\n
+                        20. Ellos entonces, dejando al instante las redes, le siguieron.\n
+                        21. Pasando de allí, vio a otros dos hermanos, Jacobo hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, que remendaban sus redes; y los llamó.\n
+                        22. Y ellos, dejando al instante la barca y a su padre, le siguieron.`,
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 53
+    nombre: "Abominación",
+    versiculos: [
+        {
+            ref: "Proverbios 16:5",
+            texto: `    5. Abominación es a Jehová todo altivo de corazón;
+                            Ciertamente no quedará impune.`,
+        },
+        {
+            ref: "Proverbios 16:18",
+            texto: `    18. Antes del quebrantamiento es la soberbia,
+                            Y antes de la caída la altivez de espíritu.`
+        },
+        {
+            ref: "Proverbios 27:2",
+            texto: `    2. Alábete el extraño, y no tu propia boca;
+                            El ajeno, y no los labios tuyos.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 54
+    nombre: "Lo que contamina al hombre",
+    versiculos: [
+        {
+            ref: "Marcos 7:1-23",
+            texto: `<span class="titulo-seccion">Lo que contamina al hombre</span>
+                        1. Se juntaron a Jesús los fariseos, y algunos de los escribas, que habían venido de Jerusalén;\n
+                        2. los cuales, viendo a algunos de los discípulos de Jesús comer pan con manos inmundas, esto es, no lavadas, los condenaban.\n
+                        3. Porque los fariseos y todos los judíos, aferrándose a la tradición de los ancianos, si muchas veces no se lavan las manos, no comen.\n
+                        4. Y volviendo de la plaza, si no se lavan, no comen. Y otras muchas cosas hay que tomaron para guardar, como los lavamientos de los vasos de beber, y de los jarros, y de los utensilios de metal, y de los lechos.\n
+                        5. Le preguntaron, pues, los fariseos y los escribas: ¿Por qué tus discípulos no andan conforme a la tradición de los ancianos, sino que comen pan con manos inmundas?\n
+                        6. Respondiendo él, les dijo: <span class="letra-roja">Hipócritas, bien profetizó de vosotros Isaías, como está escrito:\n
+                            Este pueblo de labios me honra,
+                            Mas su corazón está lejos de mí.\n
+                        7. Pues en vano me honran,
+                            Enseñando como doctrinas mandamientos de hombres.\n
+                        8. Porque dejando el mandamiento de Dios, os aferráis a la tradición de los hombres: los lavamientos de los jarros y de los vasos de beber; y hacéis otras muchas cosas semejantes.</span>\n
+                        9. Les decía también: <span class="letra-roja">Bien invalidáis el mandamiento de Dios para guardar vuestra tradición.\n
+                        10. Porque Moisés dijo: Honra a tu padre y a tu madre; y: El que maldiga al padre o a la madre, muera irremisiblemente.\n
+                        11. Pero vosotros decís: Basta que diga un hombre al padre o a la madre: Es Corbán (que quiere decir, mi ofrenda a Dios) todo aquello con que pudiera ayudarte,\n
+                        12. y no le dejáis hacer más por su padre o por su madre,\n
+                        13. invalidando la palabra de Dios con vuestra tradición que habéis transmitido. Y muchas cosas hacéis semejantes a estas.</span>\n
+                        14. Y llamando a sí a toda la multitud, les dijo: <span class="letra-roja">Oídme todos, y entended:\n
+                        15. Nada hay fuera del hombre que entre en él, que le pueda contaminar; pero lo que sale de él, eso es lo que contamina al hombre.\n
+                        16. Si alguno tiene oídos para oír, oiga.</span>\n
+                        17. Cuando se alejó de la multitud y entró en casa, le preguntaron sus discípulos sobre la parábola.\n
+                        18. El les dijo: <span class="letra-roja">¿También vosotros estáis así sin entendimiento? ¿No entendéis que todo lo de fuera que entra en el hombre, no le puede contaminar,\n
+                        19. porque no entra en su corazón, sino en el vientre, y sale a la letrina? </span>Esto decía, haciendo limpios todos los alimentos.\n
+                        20. Pero decía, <span class="letra-roja">que lo que del hombre sale, eso contamina al hombre.\n
+                        21. Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los adulterios, las fornicaciones, los homicidios,\n
+                        22. los hurtos, las avaricias, las maldades, el engaño, la lascivia, la envidia, la maledicencia, la soberbia, la insensatez.\n
+                        23. Todas estas maldades de dentro salen, y contaminan al hombre.</span>\n
+                    <span class="titulo-seccion">La fe de la mujer sirofenicia</span>
+                        24. Levantándose de allí, se fue a la región de Tiro y de Sidón; y entrando en una casa, no quiso que nadie lo supiese; pero no pudo esconderse.\n
+                        25. Porque una mujer, cuya hija tenía un espíritu inmundo, luego que oyó de él, vino y se postró a sus pies.\n
+                        26. La mujer era griega, y sirofenicia de nación; y le rogaba que echase fuera de su hija al demonio.\n
+                        27. Pero Jesús le dijo: <span class="letra-roja">Deja primero que se sacien los hijos, porque no está bien tomar el pan de los hijos y echarlo a los perrillos.</span>\n
+                        28. Respondió ella y le dijo: Sí, Señor; pero aun los perrillos, debajo de la mesa, comen de las migajas de los hijos.\n
+                        29. Entonces le dijo: <span class="letra-roja">Por esta palabra, ve; el demonio ha salido de tu hija.</span>\n
+                        30. Y cuando llegó ella a su casa, halló que el demonio había salido, y a la hija acostada en la cama.\n
+                    <span class="titulo-seccion">Jesús sana a un sordomudo</span>\n
+                        31. Volviendo a salir de la región de Tiro, vino por Sidón al mar de Galilea, pasando por la región de Decápolis.\n
+                        32. Y le trajeron un sordo y tartamudo, y le rogaron que le pusiera la mano encima.\n
+                        33. Y tomándole aparte de la gente, metió los dedos en las orejas de él, y escupiendo, tocó su lengua;\n
+                        34. y levantando los ojos al cielo, gimió, y le dijo: <span class="letra-roja">Efata,</span> es decir: <span class="letra-roja">Sé abierto.</span>\n
+                        35. Al momento fueron abiertos sus oídos, y se desató la ligadura de su lengua, y hablaba bien.\n
+                        36. Y les mandó que no lo dijesen a nadie; pero cuanto más les mandaba, tanto más y más lo divulgaban.\n
+                        37. Y en gran manera se maravillaban, diciendo: bien lo ha hecho todo; hace a los sordos oír, y a los mudos hablar.`,
+        },
+        {
+            ref: "Efesios 4:31",
+            texto: `    31. Quítense de vosotros toda amargura, enojo, ira, gritería y maledicencia, y toda malicia.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 55
+    nombre: "La oración",
+    versiculos: [
+        {
+            ref: "Filipenses 4:6",
+            texto: `    6. Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias.`,
+        },
+        {
+            ref: "Santiago 5:13-20",
+            texto: `    13. ¿Está alguno entre vosotros afligido? Haga oración. ¿Está alguno alegre? Cante alabanzas.\n
+                        14. ¿Está alguno enfermo entre vosotros? Llame a los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor.\n
+                        15. Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán perdonados.\n
+                        16. Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.\n
+                        17. Elías era hombre sujeto a pasiones semejantes a las nuestras, y oró fervientemente para que no lloviese, y no llovió sobre la tierra por tres años y seis meses.\n
+                        18. Y otra vez oró, y el cielo dio lluvia, y la tierra produjo su fruto.\n
+                        19. Hermanos, si alguno de entre vosotros se ha extraviado de la verdad, y alguno le hace volver,\n
+                        20. sepa que el que haga volver al pecador del error de su camino, salvará de muerte un alma, y cubrirá multitud de pecados.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 56
+    nombre: "El pastor cuida de sus ovejas",
+    versiculos: [
+        {
+            ref: "*****Proverbios 27:23",
+            texto: ``,
+        },
+        {
+            ref: "Juan 10:1-18",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 57
+    nombre: "Corazón",
+    versiculos: [
+        {
+            ref: "Ezequiel 36:26",
+            texto: ``,
+        },
+        {
+            ref: "Proverbios 4:23",
+            texto: ``
+        },
+        {
+            ref: "Efesios 4:31",
+            texto: ``
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 58
+    nombre: "Paz sobrenatural",
+    versiculos: [
+        {
+            ref: "Filipenses 4:7",
+            texto: ``,
         },
     ]
     },
