@@ -878,11 +878,11 @@ const bibliotecaBiblica = [
 
     {
     //Este es el tema: 35
-    nombre: "*** Alma",
+    nombre: "Alma",
     versiculos: [
         {
-            ref: "",
-            texto: ``,
+            ref: "1 Tesalonicenses 5:23",
+            texto: `    23. Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, espíritu, alma y cuerpo, sea guardado irreprensible para la venida de nuestro Señor Jesucristo.`,
         },
     ]
     },
@@ -1150,15 +1150,15 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "1 Corintios 4:15",
-            texto: ``,
+            texto: `    15. Porque aunque tengáis diez mil ayos en Cristo, no tendréis muchos`,
         },
         {
             ref: "Hechos 5:34",
-            texto: ``
+            texto: `    34. Entonces levantándose en el concilio un fariseo llamado Gamaliel, doctor de la ley, venerado de todo el pueblo, mandó que sacasen fuera por un momento a los apóstoles,`
         },
         {
             ref: "Hechos 22:3",
-            texto: ``
+            texto: `    3. Yo de cierto soy judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, instruido a los pies de Gamaliel, estrictamente conforme a la ley de nuestros padres, celoso de Dios, como hoy lo sois todos vosotros.`
         },
         
     ]
@@ -1170,7 +1170,7 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Colosenses 2:10",
-            texto: ``,
+            texto: `    10. y vosotros estáis completos en él, que es la cabeza de todo principado y potestad.`,
         },
     ]
     },
@@ -1181,11 +1181,63 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Mateo 2",
-            texto: ``,
+            texto: `<span class="titulo-seccion">La visita de los magos</span>
+                        1. Cuando Jesús nació en Belén de Judea en días del rey Herodes, vinieron del oriente a Jerusalén unos magos,\n
+                        2. diciendo: ¿Dónde está el rey de los judíos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle.\n
+                        3. Oyendo esto, el rey Herodes se turbó, y toda Jerusalén con él.\n
+                        4. Y convocados todos los principales sacerdotes, y los escribas del pueblo, les preguntó dónde había de nacer el Cristo.\n
+                        5. Ellos le dijeron: En Belén de Judea; porque así está escrito por el profeta:\n
+                        6. Y tú, Belén, de la tierra de Judá,
+                            No eres la más pequeña entre los príncipes de Judá;
+                            Porque de ti saldrá un guiador,
+                            Que apacentará a mi pueblo Israel.\n
+                        7. Entonces Herodes, llamando en secreto a los magos, indagó de ellos diligentemente el tiempo de la aparición de la estrella;\n
+                        8. y enviándolos a Belén, dijo: Id allá y averiguad con diligencia acerca del niño; y cuando le halléis, hacédmelo saber, para que yo también vaya y le adore.\n
+                        9. Ellos, habiendo oído al rey, se fueron; y he aquí la estrella que habían visto en el oriente iba delante de ellos, hasta que llegando, se detuvo sobre donde estaba el niño.\n
+                        10. Y al ver la estrella, se regocijaron con muy grande gozo.\n
+                        11. Y al entrar en la casa, vieron al niño con su madre María, y postrándose, lo adoraron; y abriendo sus tesoros, le ofrecieron presentes: oro, incienso y mirra.\n
+                        12. Pero siendo avisados por revelación en sueños que no volviesen a Herodes, regresaron a su tierra por otro camino.\n
+                    <span class="titulo-seccion">Matanza de los niños</span>
+                        13. Después que partieron ellos, he aquí un ángel del Señor apareció en sueños a José y dijo: Levántate y toma al niño y a su madre, y huye a Egipto, y permanece allá hasta que yo te diga; porque acontecerá que Herodes buscará al niño para matarlo.\n
+                        14. Y él, despertando, tomó de noche al niño y a su madre, y se fue a Egipto,\n
+                        15. y estuvo allá hasta la muerte de Herodes; para que se cumpliese lo que dijo el Señor por medio del profeta, cuando dijo: De Egipto llamé a mi Hijo.\n
+                        16. Herodes entonces, cuando se vio burlado por los magos, se enojó mucho, y mandó matar a todos los niños menores de dos años que había en Belén y en todos sus alrededores, conforme al tiempo que había inquirido de los magos.\n
+                        17. Entonces se cumplió lo que fue dicho por el profeta Jeremías, cuando dijo:\n
+                        18. Voz fue oída en Ramá,
+                            Grande lamentación, lloro y gemido;
+                            Raquel que llora a sus hijos,
+                            Y no quiso ser consolada, porque perecieron.\n
+                        19. Pero después de muerto Herodes, he aquí un ángel del Señor apareció en sueños a José en Egipto,\n
+                        20. diciendo: Levántate, toma al niño y a su madre, y vete a tierra de Israel, porque han muerto los que procuraban la muerte del niño.\n
+                        21. Entonces él se levantó, y tomó al niño y a su madre, y vino a tierra de Israel.\n
+                        22. Pero oyendo que Arquelao reinaba en Judea en lugar de Herodes su padre, tuvo temor de ir allá; pero avisado por revelación en sueños, se fue a la región de Galilea,\n
+                        23. y vino y habitó en la ciudad que se llama Nazaret, para que se cumpliese lo que fue dicho por los profetas, que habría de ser llamado nazareno.`,
         },
         {
             ref: "Lucas 2:1-20",
-            texto: ``
+            texto: `<span class="titulo-seccion">Nacimiento de Jesús</span>
+                        1. Aconteció en aquellos días, que se promulgó un edicto de parte de Augusto César, que todo el mundo fuese empadronado.\n
+                        2. Este primer censo se hizo siendo Cirenio gobernador de Siria.\n
+                        3. E iban todos para ser empadronados, cada uno a su ciudad.\n
+                        4. Y José subió de Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén, por cuanto era de la casa y familia de David;\n
+                        5. para ser empadronado con María su mujer, desposada con él, la cual estaba encinta.\n
+                        6. Y aconteció que estando ellos allí, se cumplieron los días de su alumbramiento.\n
+                        7. Y dio a luz a su hijo primogénito, y lo envolvió en pañales, y lo acostó en un pesebre, porque no había lugar para ellos en el mesón.\n
+                    <span class="titulo-seccion">Los ángeles y los pastores</span>
+                        8. Había pastores en la misma región, que velaban y guardaban las vigilias de la noche sobre su rebaño.\n
+                        9. Y he aquí, se les presentó un ángel del Señor, y la gloria del Señor los rodeó de resplandor; y tuvieron gran temor.\n
+                        10. Pero el ángel les dijo: No temáis; porque he aquí os doy nuevas de gran gozo, que será para todo el pueblo:\n
+                        11. que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.\n
+                        12. Esto os servirá de señal: Hallaréis al niño envuelto en pañales, acostado en un pesebre.\n
+                        13. Y repentinamente apareció con el ángel una multitud de las huestes celestiales, que alababan a Dios, y decían:\n
+                        14. ¡Gloria a Dios en las alturas,
+                            Y en la tierra paz, buena voluntad para con los hombres!\n
+                        15. Sucedió que cuando los ángeles se fueron de ellos al cielo, los pastores se dijeron unos a otros: Pasemos, pues, hasta Belén, y veamos esto que ha sucedido, y que el Señor nos ha manifestado.\n
+                        16. Vinieron, pues, apresuradamente, y hallaron a María y a José, y al niño acostado en el pesebre.\n
+                        17. Y al verlo, dieron a conocer lo que se les había dicho acerca del niño.\n
+                        18. Y todos los que oyeron, se maravillaron de lo que los pastores les decían.\n
+                        19. Pero María guardaba todas estas cosas, meditándolas en su corazón.\n
+                        20. Y volvieron los pastores glorificando y alabando a Dios por todas las cosas que habían oído y visto, como se les había dicho.`
         },
         {
             ref: "*Miqueas 5:1-2",
@@ -1193,11 +1245,12 @@ const bibliotecaBiblica = [
         },
         {
             ref: "Apocalipsis 5:8",
-            texto: ``
+            texto: `    8. Y cuando hubo tomado el libro, los cuatro seres vivientes y los veinticuatro ancianos se postraron delante del Cordero; todos tenían arpas, y copas de oro llenas de incienso, que son las oraciones de los santos;`
         },
         {
             ref: "Deuteronomio 18:11-12",
-            texto: ``
+            texto: `    11. ni encantador, ni adivino, ni mago, ni quien consulte a los muertos.
+                        12. Porque es abominación para con Jehová cualquiera que hace estas cosas, y por estas abominaciones Jehová tu Dios echa estas naciones de delante de ti.`
         },
     ]
     },
@@ -1208,23 +1261,33 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Deuteronomio 6:4-9",
-            texto: ``,
+            texto: `    4. Oye, Israel: Jehová nuestro Dios, Jehová uno es.\n
+                        5. Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas.\n
+                        6. Y estas palabras que yo te mando hoy, estarán sobre tu corazón;\n
+                        7. y las repetirás a tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes.\n
+                        8. Y las atarás como una señal en tu mano, y estarán como frontales entre tus ojos;\n
+                        9. y las escribirás en los postes de tu casa, y en tus puertas.`,
         },
         {
             ref: "1 Corintios 11:3",
-            texto: ``
+            texto: `    3. Pero quiero que sepáis que Cristo es la cabeza de todo varón, y el varón es la cabeza de la mujer, y Dios la cabeza de Cristo.`
         },
         {
             ref: "*Proverbios 23:24-25",
-            texto: ``
+            texto: `    24. Mucho se alegrará el padre del justo,
+                            Y el que engendra sabio se gozará con él.\n
+                        25. Alégrense tu padre y tu madre,
+                            Y gócese la que te dio a luz.`
         },
         {
             ref: "Proverbios 22:6",
-            texto: ``
+            texto: `    6. Instruye al niño en su camino,
+                            Y aun cuando fuere viejo no se apartará de él.`
         },
         {
             ref: "Deuteronomio 11:18-19",
-            texto: ``
+            texto: `    18. Por tanto, pondréis estas mis palabras en vuestro corazón y en vuestra alma, y las ataréis como señal en vuestra mano, y serán por frontales entre vuestros ojos.\n
+                        19. Y las enseñaréis a vuestros hijos, hablando de ellas cuando te sientes en tu casa, cuando andes por el camino, cuando te acuestes, y cuando te levantes,`
         },
     ]
     },
@@ -1235,11 +1298,16 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Marcos 4:18-19",
-            texto: ``,
+            texto: `<span class="letra-roja">
+                        18. Estos son los que fueron sembrados entre espinos: los que oyen la palabra,\n
+                        19. pero los afanes de este siglo, y el engaño de las riquezas, y las codicias de otras cosas, entran y ahogan la palabra, y se hace infructuosa.
+                    </span>`,
         },
         {
             ref: "Mateo 6:33",
-            texto: ``
+            texto: `<span class="letra-roja">    
+                        33. Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.
+                    </span>`
         },
     ]
     },
