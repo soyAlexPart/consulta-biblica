@@ -1434,12 +1434,35 @@ const bibliotecaBiblica = [
     nombre: "El pastor cuida de sus ovejas",
     versiculos: [
         {
-            ref: "*****Proverbios 27:23",
-            texto: ``,
+            ref: "Proverbios 27:23",
+            texto: `    23. Sé diligente en conocer el estado de tus ovejas,
+                            Y mira con cuidado por tus rebaños;`,
         },
         {
             ref: "Juan 10:1-18",
-            texto: ``
+            texto: `<span class="titulo-seccion">Parábola del redil</span>
+                        <span class="letra-roja">
+                            1. De cierto, de cierto os digo: El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ése es ladrón y salteador.\n
+                            2. Mas el que entra por la puerta, el pastor de las ovejas es.\n
+                            3. A éste abre el portero, y las ovejas oyen su voz; y a sus ovejas llama por nombre, y las saca.\n
+                            4. Y cuando ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz.\n
+                            5. Mas al extraño no seguirán, sino huirán de él, porque no conocen la voz de los extraños.
+                        </span>
+                        6. Esta alegoría les dijo Jesús; pero ellos no entendieron qué era lo que les decía.\n
+
+                    <span class="titulo-seccion">Jesús, el buen pastor</span>
+                        7. Volvió, pues, Jesús a decirles: <span class="letra-roja">De cierto, de cierto os digo: Yo soy la puerta de las ovejas.\n
+                        8. Todos los que antes de mí vinieron, ladrones son y salteadores; pero no los oyeron las ovejas.\n
+                        9. Yo soy la puerta; el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos.\n
+                        10. El ladrón no viene sino para hurtar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia.\n
+                        11. Yo soy el buen pastor; el buen pastor su vida da por las ovejas.\n
+                        12. Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve venir al lobo y deja las ovejas y huye, y el lobo arrebata las ovejas y las dispersa.\n
+                        13. Así que el asalariado huye, porque es asalariado, y no le importan las ovejas.\n
+                        14. Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen,\n
+                        15. así como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas.\n
+                        16. También tengo otras ovejas que no son de este redil; aquéllas también debo traer, y oirán mi voz; y habrá un rebaño, y un pastor.\n
+                        17. Por eso me ama el Padre, porque yo pongo mi vida, para volverla a tomar.\n
+                        18. Nadie me la quita, sino que yo de mí mismo la pongo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre.</span>`
         },
     ]
     },
@@ -1450,15 +1473,16 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Ezequiel 36:26",
-            texto: ``,
+            texto: `26. Y os daré un corazón nuevo, y pondré en vosotros un espíritu nuevo; no os volveré a entregar el espíritu de maldad, sino que os daré un espíritu de santidad.`,
         },
         {
             ref: "Proverbios 4:23",
-            texto: ``
+            texto: `23. Sobre toda cosa guardada, guarda tu corazón;
+                        Porque de él mana la vida.`
         },
         {
             ref: "Efesios 4:31",
-            texto: ``
+            texto: `31. Quítense de vosotros toda amargura, enojo, ira, gritería y maledicencia, y toda malicia.`
         },
     ]
     },
@@ -1469,7 +1493,7 @@ const bibliotecaBiblica = [
     versiculos: [
         {
             ref: "Filipenses 4:7",
-            texto: ``,
+            texto: `7. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.`
         },
     ]
     },
@@ -1851,26 +1875,41 @@ const bibliotecaBiblica = [
         },
     ]
 },
-    /*
-    {
-    //Este es el tema:
-    nombre: "Transfiguración",
-    versiculos: [
-        {
-            ref: "Mateo 17:1-13",
-            texto: `<div class="titulo-seccion">La transfiguración</div>
+    
+{
+//Este es el tema:
+nombre: "Transfiguración",
+versiculos: [
+    {   /*
+        
+
+    <details>
+        <summary></summary>
+        <div class="versiculo-texto">
+            
+        </div>
+    </details>
+
+    <details>
+        <summary></summary>
+        <div class="versiculo-texto">
+            \n
+*/
+
+        ref: "Mateo 17:1-13",
+        texto: `<div class="titulo-seccion">La transfiguración</div>
                         1. Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan su hermano, y los llevó aparte a un monte alto;\n
                         2. y se transfiguró delante de ellos, y resplandeció su rostro como el sol, y sus vestidos se hicieron blancos como la luz.\n
                         3. Y he aquí les aparecieron Moisés y Elías, hablando con él.\n
                         4. Entonces Pedro dijo a Jesús: Señor, bueno es para nosotros que estemos aquí; si quieres, hagamos aquí tres enramadas: una para ti, otra para Moisés, y otra para Elías.\n
                         5. Mientras él aún hablaba, una nube de luz los cubrió; y he aquí una voz desde la nube, que decía: Este es mi Hijo amado, en quien tengo complacencia; a él oíd.\n
                         6. Al oír esto los discípulos, se postraron sobre sus rostros, y tuvieron gran temor.\n
-                        7. Entonces Jesús se acercó y los tocó, y dijo: <div class="letra-roja">Levantaos, y no temáis.</div>
+                        7. Entonces Jesús se acercó y los tocó, y dijo: <span class="letra-roja">Levantaos, y no temáis.</span>\n
                         8. Y alzando ellos los ojos, a nadie vieron sino a Jesús solo.\n
-                        9. Cuando descendieron del monte, Jesús les mandó, diciendo: <div class="letra-roja">No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos.</div>
+                        9. Cuando descendieron del monte, Jesús les mandó, diciendo:<span class="letra-roja">No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos.</span>\n
                         10. Entonces sus discípulos le preguntaron, diciendo: ¿Por qué, pues, dicen los escribas que es necesario que Elías venga primero?\n
-                        11. Respondiendo Jesús, les dijo: <div class="letra-roja">A la verdad, Elías viene primero, y restaurará todas las cosas.\n
-                        12. Mas os digo que Elías ya vino, y no le conocieron, sino que hicieron con él todo lo que quisieron; así también el Hijo del Hombre padecerá de ellos.</div>
+                        11. Respondiendo Jesús, les dijo: <span class="letra-roja">A la verdad, Elías viene primero, y restaurará todas las cosas.\n
+                        12. Mas os digo que Elías ya vino, y no le conocieron, sino que hicieron con él todo lo que quisieron; así también el Hijo del Hombre padecerá de ellos.</span>\n
                         13. Entonces los discípulos comprendieron que les había hablado de Juan el Bautista.\n`
         },
         {
@@ -1887,7 +1926,49 @@ const bibliotecaBiblica = [
                         36. Y cuando cesó la voz, Jesús fue hallado solo; y ellos callaron, y por aquellos días no dijeron nada a nadie de lo que habían visto.
                     </div>`
         },
+        {
+            ref: "Marcos 9:2-10",
+            texto: `<div class="titulo-seccion">La transfiguración</div>
+                        2. Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan, y los llevó aparte solos a un monte alto; y se transfiguró delante de ellos.\n
+                        3. Y sus vestidos se volvieron resplandecientes, muy blancos, como la nieve, tanto que ningún lavador en la tierra los puede hacer tan blancos.\n
+                        4. Y les apareció Elías con Moisés, que hablaban con Jesús.\n
+                        5. Entonces Pedro dijo a Jesús: Maestro, bueno es para nosotros que estemos aquí; y hagamos tres enramadas, una para ti, otra para Moisés, y otra para Elías.\n
+                        6. Porque no sabía lo que hablaba, pues estaban espantados.\n
+                        7. Entonces vino una nube que les hizo sombra, y desde la nube una voz que decía: Este es mi Hijo amado; a él oíd.\n
+                        8. Y luego, cuando miraron, no vieron más a nadie consigo, sino a Jesús solo.\n
+                        9. Y descendiendo ellos del monte, les mandó que a nadie dijesen lo que habían visto, sino cuando el Hijo del Hombre hubiese resucitado de los muertos.\n
+                        10. Y guardaron la palabra entre sí, discutiendo qué sería aquello de resucitar de los muertos.`
+        },
+        {
+            ref: "1 Corintios 15:33-58",
+            texto: `33. No erréis; las malas conversaciones corrompen las buenas costumbres.\n
+                    34. Velad debidamente, y no pequéis; porque algunos no conocen a Dios; para vergüenza vuestra lo digo.\n
+                    35. Pero dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué cuerpo vendrán?\n
+                    36. Necio, lo que tú siembras no se vivifica, si no muere antes.\n
+                    37. Y lo que siembras no es el cuerpo que ha de salir, sino el grano desnudo, ya sea de trigo o de otro grano;\n
+                    38. pero Dios le da el cuerpo como él quiso, y a cada semilla su propio cuerpo.\n
+                    39. No toda carne es la misma carne, sino que una carne es la de los hombres, otra carne la de las bestias, otra la de los peces, y otra la de las aves.\n
+                    40. Y hay cuerpos celestiales, y cuerpos terrenales; pero una es la gloria de los celestiales, y otra la de los terrenales.\n
+                    41. Una es la gloria del sol, otra la gloria de la luna, y otra la gloria de las estrellas, pues una estrella es diferente de otra en gloria.\n
+                    42. Así también es la resurrección de los muertos. Se siembra en corrupción, resucitará en incorrupción.\n
+                    43. Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder.\n
+                    44. Se siembra cuerpo animal, resucitará cuerpo espiritual. Hay cuerpo animal, y hay cuerpo espiritual.\n
+                    45. Así también está escrito: Fue hecho el primer hombre Adán alma viviente; el postrer Adán, espíritu vivificante.\n
+                    46. Mas lo espiritual no es primero, sino lo animal; luego lo espiritual.\n
+                    47. El primer hombre es de la tierra, terrenal; el segundo hombre, que es el Señor, es del cielo.\n
+                    48. Cual el terrenal, tales también los terrenales; y cual el celestial, tales también los celestiales.\n
+                    49. Y así como hemos traído la imagen del terrenal, traeremos también la imagen del celestial.\n
+                    50. Pero esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios, ni la corrupción hereda la incorrupción.\n
+                    51. He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados,\n
+                    52. en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.\n
+                    53. Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad.\n
+                    54. Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte en victoria.\n
+                    55. ¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?\n
+                    56. ya que el aguijón de la muerte es el pecado, y el poder del pecado, la ley.\n
+                    57. Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.\n
+                    58. Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano.`
+        },
     ]
     },
-    */
+    
 ];

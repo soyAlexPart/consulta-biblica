@@ -89,14 +89,14 @@ function renderizar(datos, abrirTodo = false) {
     }
 
 });
-
+        
         areaContenido.appendChild(dTema);
 
     });
-
+    /*
     const titulo = document.createElement("h2");
     titulo.className = "titulo-seccion";
-    titulo.textContent = "Lo más nuevo (12/07/2026)";
+    titulo.textContent = "Tema Sabado (1 de Agosto del 2026)";
     areaContenido.appendChild(titulo);
 
     const nuevoTema = document.createElement("details");
@@ -187,7 +187,12 @@ function renderizar(datos, abrirTodo = false) {
             56. ya que el aguijón de la muerte es el pecado, y el poder del pecado, la ley.\n
             57. Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.\n
             58. Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano.\n
-`;
-    areaContenido.appendChild(nuevoTema);
-    console.log(nuevoTema.innerHTML);
+
+
+            `;
+        
+            areaContenido.appendChild(nuevoTema);
+            console.log(nuevoTema.innerHTML);
+}
+*/
 }
