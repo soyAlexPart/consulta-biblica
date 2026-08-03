@@ -230,3 +230,38 @@ topBtn.onclick = function () {
     });
 
 };
+
+//=========================
+// MODO OSCURO
+//=========================
+
+const themeBtn = document.getElementById("themeToggle");
+
+// Cargar preferencia
+if(localStorage.getItem("modo") === "oscuro"){
+
+    document.body.classList.add("dark");
+
+    themeBtn.textContent="☀️";
+
+}
+
+themeBtn.addEventListener("click",()=>{
+
+    document.body.classList.toggle("dark");
+
+    if(document.body.classList.contains("dark")){
+
+        localStorage.setItem("modo","oscuro");
+
+        themeBtn.textContent="☀️";
+
+    }else{
+
+        localStorage.setItem("modo","claro");
+
+        themeBtn.textContent="🌙";
+
+    }
+
+});

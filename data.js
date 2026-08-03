@@ -29,8 +29,7 @@ const bibliotecaBiblica = [
         {
             ref: "Juan 8:12",
             texto: `<span class="titulo-seccion">Jesús, la luz del mundo</span>
-                        12. Otra vez Jesús les habló, diciendo: 
-                            <span class="letra-roja">Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.</span>`
+                        12. Otra vez Jesús les habló, diciendo: <span class="letra-roja">Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.</span>`
         },
         {
             ref: "Hechos 26:18",
@@ -1906,7 +1905,7 @@ versiculos: [
                         6. Al oír esto los discípulos, se postraron sobre sus rostros, y tuvieron gran temor.\n
                         7. Entonces Jesús se acercó y los tocó, y dijo: <span class="letra-roja">Levantaos, y no temáis.</span>\n
                         8. Y alzando ellos los ojos, a nadie vieron sino a Jesús solo.\n
-                        9. Cuando descendieron del monte, Jesús les mandó, diciendo:<span class="letra-roja">No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos.</span>\n
+                        9. Cuando descendieron del monte, Jesús les mandó, diciendo: <span class="letra-roja">No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos.</span>\n
                         10. Entonces sus discípulos le preguntaron, diciendo: ¿Por qué, pues, dicen los escribas que es necesario que Elías venga primero?\n
                         11. Respondiendo Jesús, les dijo: <span class="letra-roja">A la verdad, Elías viene primero, y restaurará todas las cosas.\n
                         12. Mas os digo que Elías ya vino, y no le conocieron, sino que hicieron con él todo lo que quisieron; así también el Hijo del Hombre padecerá de ellos.</span>\n

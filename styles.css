@@ -163,3 +163,122 @@ details { margin-bottom: 10px; padding: 10px; border-bottom: 1px solid #eee; }
 #topBtn:hover{
     background-color:black;
 }
+
+/*==============================
+MODO OSCURO
+==============================*/
+
+.top-actions{
+    display:flex;
+    justify-content:flex-end;
+    margin-bottom:15px;
+}
+
+#themeToggle{
+
+    width:42px;
+    height:42px;
+
+    border:none;
+    border-radius:50%;
+
+    cursor:pointer;
+
+    font-size:18px;
+
+    background:#f3f3f3;
+
+    transition:.25s;
+
+}
+
+#themeToggle:hover{
+
+    transform:scale(1.08);
+
+}
+
+/* ---------- Tema oscuro ---------- */
+
+body.dark{
+
+    background:#111827;
+    color:#f4f4f4;
+
+}
+
+body.dark .container{
+
+    background:#1f2937;
+
+}
+
+body.dark h2,
+body.dark h3,
+body.dark h5,
+body.dark summary,
+body.dark .titulo-seccion,
+body.dark .subtitulo{
+
+    color:white;
+
+}
+
+body.dark input{
+
+    background:#374151;
+    color:white;
+
+}
+
+body.dark .search-wrapper{
+
+    background:#374151;
+    border:1px solid #4b5563;
+
+}
+
+body.dark #sugerencias{
+
+    background:#374151;
+
+}
+
+body.dark #sugerencias li{
+
+    color:white;
+    border-bottom:1px solid #4b5563;
+
+}
+
+body.dark #sugerencias li:hover{
+
+    background:#4b5563;
+
+}
+
+body.dark .versiculo-texto{
+
+    background:#273548;
+    color:#f1f1f1;
+
+}
+
+body.dark footer{
+
+    color:#d1d5db;
+
+}
+
+body.dark footer a{
+
+    color:#d1d5db !important;
+
+}
+
+body.dark #themeToggle{
+
+    background:#374151;
+    color:white;
+
+}
