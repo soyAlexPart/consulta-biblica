@@ -282,3 +282,35 @@ body.dark #themeToggle{
     color:white;
 
 }
+
+.acciones{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    margin:20px 0;
+}
+
+/* Contraer y expandir todo */
+.acciones button{
+    padding:8px 18px;
+    border-radius:20px;
+    border:none;
+    background:#000000;
+    color:white;
+    cursor:pointer;
+    font-size:14px;
+    transition:.25s;
+}
+
+.acciones button:hover{
+    background:#000000;
+}
+
+/* Modo oscuro para los botones de expandir y contraer todo */
+body.dark .acciones button{
+    background:#464646;
+}
+
+body.dark .acciones button:hover{
+    background:#464646;
+}

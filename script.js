@@ -265,3 +265,21 @@ themeBtn.addEventListener("click",()=>{
     }
 
 });
+
+// Código para expandir y contraer todos los detalles
+
+document.getElementById("expandirTodo").addEventListener("click", () => {
+
+    document.querySelectorAll("#contentArea details").forEach(detalle => {
+        detalle.open = true;
+    });
+
+});
+
+document.getElementById("contraerTodo").addEventListener("click", () => {
+
+    document.querySelectorAll("#contentArea details").forEach(detalle => {
+        detalle.open = false;
+    });
+
+});
