@@ -314,3 +314,18 @@ body.dark .acciones button{
 body.dark .acciones button:hover{
     background:#464646;
 }
+
+/* Control de tamaño de letra */
+.control-letra {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.control-letra button {
+    padding: 8px 15px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}

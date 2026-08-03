@@ -564,3 +564,33 @@ document.getElementById("contraerTodo").addEventListener("click", () => {
     });
 
 });
+
+// Código para aumentar y disminuir el tamaño de la letras
+
+let tamañoLetra = 18;
+
+const contenido = document.body;
+
+document.getElementById("aumentarLetra").addEventListener("click", () => {
+
+    tamañoLetra += 2;
+    contenido.style.fontSize = tamañoLetra + "px";
+
+});
+
+
+document.getElementById("disminuirLetra").addEventListener("click", () => {
+
+    if (tamañoLetra > 10) {
+        tamañoLetra -= 2;
+        contenido.style.fontSize = tamañoLetra + "px";
+    }
+
+});
+
+document.getElementById("restaurarLetra").addEventListener("click", () => {
+
+    tamañoLetra = 18;
+    document.body.style.fontSize = tamañoLetra + "px";
+
+});
