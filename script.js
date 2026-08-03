@@ -1,3 +1,277 @@
+const abreviaturas = {
+
+    // Antiguo Testamento
+
+    "gn": "Génesis",
+    "gen": "Génesis",
+    "gén": "Génesis",
+    "génesis": "Génesis",
+
+    "ex": "Éxodo",
+    "exo": "Éxodo",
+    "éxodo": "Éxodo",
+
+    "lv": "Levítico",
+    "lev": "Levítico",
+    "levítico": "Levítico",
+
+    "nm": "Números",
+    "num": "Números",
+    "números": "Números",
+
+    "dt": "Deuteronomio",
+    "deut": "Deuteronomio",
+    "deuteronomio": "Deuteronomio",
+
+    "jos": "Josué",
+    "josh": "Josué",
+    "josué": "Josué",
+
+    "jue": "Jueces",
+    "jueces": "Jueces",
+
+    "rut": "Rut",
+
+    "1 s": "1 Samuel",
+    "1s": "1 Samuel",
+    "1 sam": "1 Samuel",
+    "1sam": "1 Samuel",
+    "1 samuel": "1 Samuel",
+
+    "2 s": "2 Samuel",
+    "2s": "2 Samuel",
+    "2 sam": "2 Samuel",
+    "2sam": "2 Samuel",
+    "2 samuel": "2 Samuel",
+
+    "1 re": "1 Reyes",
+    "1r": "1 Reyes",
+    "1 rey": "1 Reyes",
+    "1reyes": "1 Reyes",
+
+    "2 re": "2 Reyes",
+    "2r": "2 Reyes",
+    "2 rey": "2 Reyes",
+    "2reyes": "2 Reyes",
+
+    "1 cr": "1 Crónicas",
+    "1cro": "1 Crónicas",
+    "1cron": "1 Crónicas",
+    "1 crónicas": "1 Crónicas",
+
+    "2 cr": "2 Crónicas",
+    "2cro": "2 Crónicas",
+    "2cron": "2 Crónicas",
+    "2 crónicas": "2 Crónicas",
+
+    "esd": "Esdras",
+    "esdras": "Esdras",
+
+    "neh": "Nehemías",
+    "nehemías": "Nehemías",
+
+    "est": "Ester",
+    "ester": "Ester",
+
+    "job": "Job",
+
+    "sal": "Salmos",
+    "salmos": "Salmos",
+    "salm": "Salmos",
+
+    "pr": "Proverbios",
+    "prov": "Proverbios",
+    "proverbios": "Proverbios",
+
+    "ec": "Eclesiastés",
+    "ecl": "Eclesiastés",
+    "eclesiastés": "Eclesiastés",
+
+    "cnt": "Cantares",
+    "cant": "Cantares",
+    "cantares": "Cantares",
+
+    "is": "Isaías",
+    "isa": "Isaías",
+    "isaías": "Isaías",
+
+    "jer": "Jeremías",
+    "jeremías": "Jeremías",
+
+    "lam": "Lamentaciones",
+    "lamentaciones": "Lamentaciones",
+
+    "ez": "Ezequiel",
+    "ezq": "Ezequiel",
+    "ezequiel": "Ezequiel",
+
+    "dn": "Daniel",
+    "dan": "Daniel",
+    "daniel": "Daniel",
+
+    "os": "Oseas",
+    "oseas": "Oseas",
+
+    "joel": "Joel",
+
+    "am": "Amós",
+    "amos": "Amós",
+
+    "abd": "Abdías",
+    "abdías": "Abdías",
+
+    "jon": "Jonás",
+    "jonas": "Jonás",
+
+    "mi": "Miqueas",
+    "miqueas": "Miqueas",
+
+    "nah": "Nahúm",
+    "nahum": "Nahúm",
+
+    "hab": "Habacuc",
+    "habacuc": "Habacuc",
+
+    "sof": "Sofonías",
+    "sofonías": "Sofonías",
+
+    "hag": "Hageo",
+    "hageo": "Hageo",
+
+    "zac": "Zacarías",
+    "zacarías": "Zacarías",
+
+    "mal": "Malaquías",
+    "malaquías": "Malaquías",
+
+
+    // Nuevo Testamento
+
+    "mt": "Mateo",
+    "mateo": "Mateo",
+
+    "mr": "Marcos",
+    "mc": "Marcos",
+    "marcos": "Marcos",
+
+    "lc": "Lucas",
+    "luc": "Lucas",
+    "lucas": "Lucas",
+
+    "jn": "Juan",
+    "juan": "Juan",
+
+    "hch": "Hechos",
+    "hech": "Hechos",
+    "hechos": "Hechos",
+
+    "ro": "Romanos",
+    "rom": "Romanos",
+    "romanos": "Romanos",
+
+    "1 co": "1 Corintios",
+    "1co": "1 Corintios",
+    "1 cor": "1 Corintios",
+    "1cor": "1 Corintios",
+
+    "2 co": "2 Corintios",
+    "2co": "2 Corintios",
+    "2 cor": "2 Corintios",
+    "2cor": "2 Corintios",
+
+    "ga": "Gálatas",
+    "gal": "Gálatas",
+    "gálatas": "Gálatas",
+
+    "ef": "Efesios",
+    "efe": "Efesios",
+    "efesios": "Efesios",
+
+    "fil": "Filipenses",
+    "flp": "Filipenses",
+    "filipenses": "Filipenses",
+
+    "col": "Colosenses",
+    "colosenses": "Colosenses",
+
+    "1 ts": "1 Tesalonicenses",
+    "1ts": "1 Tesalonicenses",
+
+    "2 ts": "2 Tesalonicenses",
+    "2ts": "2 Tesalonicenses",
+
+    "1 ti": "1 Timoteo",
+    "1tim": "1 Timoteo",
+
+    "2 ti": "2 Timoteo",
+    "2tim": "2 Timoteo",
+
+    "tit": "Tito",
+    "tito": "Tito",
+
+    "flm": "Filemón",
+    "filemon": "Filemón",
+
+    "he": "Hebreos",
+    "heb": "Hebreos",
+    "hebreos": "Hebreos",
+
+    "stg": "Santiago",
+    "sant": "Santiago",
+    "santiago": "Santiago",
+
+    "1 p": "1 Pedro",
+    "1pe": "1 Pedro",
+    "1ped": "1 Pedro",
+
+    "2 p": "2 Pedro",
+    "2pe": "2 Pedro",
+    "2ped": "2 Pedro",
+
+    "1 jn": "1 Juan",
+    "1jn": "1 Juan",
+    "1juan": "1 Juan",
+
+    "2 jn": "2 Juan",
+    "2jn": "2 Juan",
+    "2juan": "2 Juan",
+
+    "3 jn": "3 Juan",
+    "3jn": "3 Juan",
+    "3juan": "3 Juan",
+
+    "jud": "Judas",
+    "judas": "Judas",
+
+    "ap": "Apocalipsis",
+    "apoc": "Apocalipsis",
+    "apocalipsis": "Apocalipsis"
+};
+
+function normalizarReferencia(texto) {
+
+    texto = texto
+        .toLowerCase()
+        .trim()
+        .replace(/\s+/g, " ");
+
+    for (let abreviatura in abreviaturas) {
+
+        if (texto.startsWith(abreviatura)) {
+
+            texto = texto.replace(
+                abreviatura,
+                abreviaturas[abreviatura].toLowerCase()
+            );
+
+            break;
+        }
+    }
+
+    return texto;
+}
+
+
 const inputBusqueda = document.getElementById('searchInput');
 const clearBtn = document.getElementById('clearBtn');
 const listaSugerencias = document.getElementById('sugerencias');
@@ -9,14 +283,21 @@ window.onload = () => {
 
 // 2. Lógica del buscador
 inputBusqueda.addEventListener('input', () => {
-    const valor = inputBusqueda.value.toLowerCase();
+    const busqueda = normalizarReferencia(inputBusqueda.value);
+    const valor = busqueda.toLowerCase().trim();
     clearBtn.classList.toggle('hidden', valor.length === 0);
 
     if (valor.length > 0) {
         // Filtrar y mostrar sugerencias y resultados
-        const resultados = bibliotecaBiblica.filter(t =>
-            t.nombre.toLowerCase().includes(valor)
-        );
+        const resultados = bibliotecaBiblica.filter(tema =>
+
+    tema.nombre.toLowerCase().includes(valor) ||
+
+    tema.versiculos.some(v =>
+        v.ref.toLowerCase().includes(valor)
+    )
+
+);
         mostrarSugerencias(resultados);
         renderizar(resultados, true); // Muestra solo lo que coincide
     } else {
