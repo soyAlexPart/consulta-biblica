@@ -16,7 +16,7 @@ const bibliotecaBiblica = [
     nombre: "Alabanza por los hechos poderosos de Dios",
     versiculos: [
         {
-            ref: "Sal 66:9",
+            ref: "Salmos 66:9",
             texto: `9. El es quien preservó la vida a nuestra alma, Y no permitió que nuestros pies resbalasen.`
         },
     ]
