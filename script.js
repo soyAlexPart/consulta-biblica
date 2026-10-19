@@ -374,7 +374,9 @@ function renderizar(datos, abrirTodo = false) {
         areaContenido.appendChild(dTema);
 
     });
-    /*
+
+
+    
     const titulo = document.createElement("h2");
     titulo.className = "titulo-seccion";
     titulo.textContent = "Tema Sabado (1 de Agosto del 2026)";
@@ -474,8 +476,6 @@ function renderizar(datos, abrirTodo = false) {
         
             areaContenido.appendChild(nuevoTema);
             console.log(nuevoTema.innerHTML);
-}
-*/
 }
 
 // ==============================
