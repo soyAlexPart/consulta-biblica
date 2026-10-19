@@ -2010,15 +2010,26 @@ versiculos: [
         },
         {
             ref: "Lucas 1:41",
-            texto: ``
+            texto: `    41. Y aconteció que cuando oyó Elisabet la salutación de María, la criatura saltó en su vientre; y Elisabet fue llena del Espíritu Santo,`
         },
         {
             ref: "Lucas 1:17",
-            texto: ``
+            texto: `    17. E irá delante de él con el espíritu y el poder de Elías, para hacer volver los corazones de los padres a los hijos, y de los rebeldes a la prudencia de los justos, para preparar al Señor un pueblo bien dispuesto.`
         },
         {
             ref: "Lucas 1:57-66",
-            texto: ``
+            texto: `<span class="titulo-seccion">Nacimiento de Juan el Bautista</span>
+
+                    57. Cuando a Elisabet se le cumplió el tiempo de su alumbramiento, dio a luz un hijo.\n
+                    58. Y cuando oyeron los vecinos y los parientes que Dios había engrandecido para con ella su misericordia, se regocijaron con ella.\n
+                    59. Aconteció que al octavo día vinieron para circuncidar al niño; y le llamaban con el nombre de su padre, Zacarías;\n
+                    60. pero respondiendo su madre, dijo: No; se llamará Juan.\n
+                    61. Le dijeron: ¿Por qué? No hay nadie en tu parentela que se llame con ese nombre.\n
+                    62. Entonces preguntaron por señas a su padre, cómo le quería llamar.\n
+                    63. Y pidiendo una tablilla, escribió, diciendo: Juan es su nombre. Y todos se maravillaron.\n
+                    64. Al momento fue abierta su boca y suelta su lengua, y habló bendiciendo a Dios.\n
+                    65. Y se llenaron de temor todos sus vecinos; y en todas las montañas de Judea se divulgaron todas estas cosas.\n
+                    66. Y todos los que las oían las guardaban en su corazón, diciendo: ¿Quién, pues, será este niño? Y la mano del Señor estaba con él.`
         },
         {
             ref: "Mateo 3:13-16",
