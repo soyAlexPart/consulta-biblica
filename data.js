@@ -2033,19 +2033,25 @@ versiculos: [
         },
         {
             ref: "Mateo 3:13-16",
-            texto: ``
+            texto: `<span class="titulo-seccion">El bautismo de Jesús</span>
+
+                        13. Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él.\n
+                        14. Mas Juan se le oponía, diciendo: Yo necesito ser bautizado por ti, ¿y tú vienes a mí?\n
+                        15. Pero Jesús le respondió: Deja ahora, porque así conviene que cumplamos toda justicia. Entonces le dejó.\n
+                        16. Y Jesús, después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma, y venía sobre él.`
         },
         {
             ref: "Lucas 1:15",
-            texto: ``
+            texto: `    15. porque será grande delante de Dios. No beberá vino ni sidra, y será lleno del Espíritu Santo, aun desde el vientre de su madre.`
         },
         {
             ref: "Mateo 11:18-19",
-            texto: ``
+            texto: `    18. Porque vino Juan, que ni comía ni bebía, y dicen: Demonio tiene.\n
+                        19. Vino el Hijo del Hombre, que come y bebe, y dicen: He aquí un hombre comilón, y bebedor de vino, amigo de publicanos y de pecadores. Pero la sabiduría es justificada por sus hijos.`
         },
         {
             ref: "Mateo 3:4",
-            texto: ``
+            texto: `    4. Y Juan estaba vestido de pelo de camello, y tenía un cinto de cuero alrededor de sus lomos; y su comida era langostas y miel silvestre.`
         },
     ]
     },
