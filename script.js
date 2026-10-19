@@ -480,6 +480,11 @@ function renderizar(datos, abrirTodo = false) {
             console.log(nuevoTema.innerHTML);
 }
 
+            const titulo = document.createElement("h2");
+    titulo.className = "titulo-seccion";
+    titulo.textContent = "Tema Domingo (18 de Octubre del 2026)";
+    areaContenido.appendChild(titulo);
+
 //********************************** */
     //  Seccion Lo mas Nuevo - DOMINGO
     //********************************** */
