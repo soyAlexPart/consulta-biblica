@@ -1704,21 +1704,22 @@ const bibliotecaBiblica = [
     ]
 },
 
-/* 
-{
+/*
+    {
+    //Este es el tema: 
     nombre: "",
     versiculos: [
         {
             ref: "",
-            texto: ``
+            texto: ``,
         },
         {
             ref: "",
             texto: ``
         },
     ]
-}, 
-*/
+    },
+    */
 
 {
     nombre: "",
@@ -1876,27 +1877,12 @@ const bibliotecaBiblica = [
 },
     
 {
-//Este es el tema:
+//Este es el tema: 241
 nombre: "Transfiguración",
 versiculos: [
-    {   /*
-        
-
-    <details>
-        <summary></summary>
-        <div class="versiculo-texto">
-            
-        </div>
-    </details>
-
-    <details>
-        <summary></summary>
-        <div class="versiculo-texto">
-            \n
-*/
-
+    {
         ref: "Mateo 17:1-13",
-        texto: `<div class="titulo-seccion">La transfiguración</div>
+        texto: `<span class="titulo-seccion">La transfiguración</span>
                         1. Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan su hermano, y los llevó aparte a un monte alto;\n
                         2. y se transfiguró delante de ellos, y resplandeció su rostro como el sol, y sus vestidos se hicieron blancos como la luz.\n
                         3. Y he aquí les aparecieron Moisés y Elías, hablando con él.\n
@@ -1913,7 +1899,7 @@ versiculos: [
         },
         {
             ref: "Lucas 9:28-36",
-            texto: `<div class="titulo-seccion">La transfiguración</div>
+            texto: `<span class="titulo-seccion">La transfiguración</span>
                         28. Aconteció como ocho días después de estas palabras, que tomó a Pedro, a Juan y a Jacobo, y subió al monte a orar.\n
                         29. Y entre tanto que oraba, la apariencia de su rostro se hizo otra, y su vestido blanco y resplandeciente.\n
                         30. Y he aquí dos varones que hablaban con él, los cuales eran Moisés y Elías;\n
@@ -1927,7 +1913,7 @@ versiculos: [
         },
         {
             ref: "Marcos 9:2-10",
-            texto: `<div class="titulo-seccion">La transfiguración</div>
+            texto: `<span class="titulo-seccion">La transfiguración</span>
                         2. Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan, y los llevó aparte solos a un monte alto; y se transfiguró delante de ellos.\n
                         3. Y sus vestidos se volvieron resplandecientes, muy blancos, como la nieve, tanto que ningún lavador en la tierra los puede hacer tan blancos.\n
                         4. Y les apareció Elías con Moisés, que hablaban con Jesús.\n
@@ -1966,6 +1952,89 @@ versiculos: [
                     56. ya que el aguijón de la muerte es el pecado, y el poder del pecado, la ley.\n
                     57. Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.\n
                     58. Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano.`
+        },
+    ]
+    },
+
+    {
+    //Este es el tema: 242
+    nombre: "Juan el bautista",
+    versiculos: [
+        {
+            ref: "Mateo 17:10-13",
+            texto: `10. Entonces sus discípulos le preguntaron, diciendo: ¿Por qué, pues, dicen los escribas que es necesario que Elías venga primero?\n
+                    11. Respondiendo Jesús, les dijo: <span class="letra-roja">A la verdad, Elías viene primero, y restaurará todas las cosas.\n
+                    12. Mas os digo que Elías ya vino, y no le conocieron, sino que hicieron con él todo lo que quisieron; así también el Hijo del Hombre padecerá de ellos.</span>\n
+                    13. Entonces los discípulos comprendieron que les había hablado de Juan el Bautista.`,
+        },
+        {
+            ref: "Mateo 11:1-11",
+            texto: `<span class="titulo-seccion">Los mensajeros de Juan el Bautista</span>
+                        1. Cuando Jesús terminó de dar instrucciones a sus doce discípulos, se fue de allí a enseñar y a predicar en las ciudades de ellos.\n
+                        2. Y al oír Juan, en la cárcel, los hechos de Cristo, le envió dos de sus discípulos,\n
+                        3. para preguntarle: ¿Eres tú aquel que había de venir, o esperaremos a otro?\n
+                        4. Respondiendo Jesús, les dijo: <span class="letra-roja">Id, y haced saber a Juan las cosas que oís y veis.\n
+                        5. Los ciegos ven, los cojos andan, los leprosos son limpiados, los sordos oyen, los muertos son resucitados, y a los pobres es anunciado el evangelio;\n
+                        6. y bienaventurado es el que no halle tropiezo en mí.</span>\n
+                        7. Mientras ellos se iban, comenzó Jesús a decir de Juan a la gente: <span class="letra-roja">¿Qué salisteis a ver al desierto? ¿Una caña sacudida por el viento?\n
+                        8. ¿O qué salisteis a ver? ¿A un hombre cubierto de vestiduras delicadas? He aquí, los que llevan vestiduras delicadas, en las casas de los reyes están.\n
+                        9. Pero ¿qué salisteis a ver? ¿A un profeta? Sí, os digo, y más que profeta.\n
+                        10. Porque éste es de quien está escrito:\n
+                            He aquí, yo envío mi mensajero delante de tu faz,
+                            El cual preparará tu camino delante de ti.\n
+                        11. De cierto os digo: Entre los que nacen de mujer no se ha levantado otro mayor que Juan el Bautista; pero el más pequeño en el reino de los cielos, mayor es que él.</span>`
+        },
+        {
+            ref: "Marcos 6:14-28",
+            texto: `<span class="titulo-seccion">Muerte de Juan el Bautista</span>
+                        14. Oyó el rey Herodes la fama de Jesús, porque su nombre se había hecho notorio; y dijo: Juan el Bautista ha resucitado de los muertos, y por eso actúan en él estos poderes.\n
+                        15. Otros decían: Es Elías. Y otros decían: Es un profeta, o alguno de los profetas.\n
+                        16. Al oír esto Herodes, dijo: Este es Juan, el que yo decapité, que ha resucitado de los muertos.\n
+                        17. Porque el mismo Herodes había enviado y prendido a Juan, y le había encadenado en la cárcel por causa de Herodías, mujer de Felipe su hermano; pues la había tomado por mujer.\n
+                        18. Porque Juan decía a Herodes: No te es lícito tener la mujer de tu hermano.\n
+                        19. Pero Herodías le acechaba, y deseaba matarle, y no podía;\n
+                        20. porque Herodes temía a Juan, sabiendo que era varón justo y santo, y le guardaba a salvo; y oyéndole, se quedaba muy perplejo, pero le escuchaba de buena gana.\n
+                        21. Pero venido un día oportuno, en que Herodes, en la fiesta de su cumpleaños, daba una cena a sus príncipes y tribunos y a los principales de Galilea,\n
+                        22. entrando la hija de Herodías, danzó, y agradó a Herodes y a los que estaban con él a la mesa; y el rey dijo a la muchacha: Pídeme lo que quieras, y yo te lo daré.\n
+                        23. Y le juró: Todo lo que me pidas te daré, hasta la mitad de mi reino.\n
+                        24. Saliendo ella, dijo a su madre: ¿Qué pediré? Y ella le dijo: La cabeza de Juan el Bautista.\n
+                        25. Entonces ella entró prontamente al rey, y pidió diciendo: Quiero que ahora mismo me des en un plato la cabeza de Juan el Bautista.\n
+                        26. Y el rey se entristeció mucho; pero a causa del juramento, y de los que estaban con él a la mesa, no quiso desecharla.\n
+                        27. Y en seguida el rey, enviando a uno de la guardia, mandó que fuese traída la cabeza de Juan.\n
+                        28. El guarda fue, le decapitó en la cárcel, y trajo su cabeza en un plato y la dio a la muchacha, y la muchacha la dio a su madre.`
+        },
+        {
+            ref: "Lucas 3:19-20",
+            texto: `    19. Entonces Herodes el tetrarca, siendo reprendido por Juan a causa de Herodías, mujer de Felipe su hermano, y de todas las maldades que Herodes había hecho,\n
+                        20. sobre todas ellas, añadió además esta: encerró a Juan en la cárcel.`
+        },
+        {
+            ref: "Lucas 1:41",
+            texto: ``
+        },
+        {
+            ref: "Lucas 1:17",
+            texto: ``
+        },
+        {
+            ref: "Lucas 1:57-66",
+            texto: ``
+        },
+        {
+            ref: "Mateo 3:13-16",
+            texto: ``
+        },
+        {
+            ref: "Lucas 1:15",
+            texto: ``
+        },
+        {
+            ref: "Mateo 11:18-19",
+            texto: ``
+        },
+        {
+            ref: "Mateo 3:4",
+            texto: ``
         },
     ]
     },
